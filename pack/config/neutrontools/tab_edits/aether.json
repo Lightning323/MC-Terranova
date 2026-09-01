@@ -1,0 +1,62 @@
+{
+  "waystones:waystones": {
+    "items_to_add": [
+      {
+        "names": ["terranova:warp_core"]
+      }
+    ],
+    "items_to_remove": []
+  },
+  "aether:building_blocks": {
+    "items_to_add": [
+      {
+        "match_tab": "aether:dungeon_blocks"
+      },
+      {
+        "match_name": "aether:(?!.*boots)(?!.*egg).*(carved|sentry).*"
+      },
+      {
+        "match_name": "aether:.*angelic.*"
+      },
+      {
+        "match_name": "aether:.*pillar.*"
+      },
+      {
+        "match_name": "aether:.*hellfire.*"
+      }
+    ]
+  },
+  "aether:armor_and_accessories": {
+    "tab_name_key": "aether",
+    "items_to_add": [
+      {
+        "match_tab": "aether:equipment_and_utilities"
+      },
+      {
+        "match_tab": "aether:functional_blocks"
+      },
+      {
+        "match_tab": "aether:redstone_blocks"
+      },
+      {
+        "names": [
+          "aether:skyroot_button",
+          "aether:holystone_button",
+          "aether:skyroot_pressure_plate",
+          "aether:holystone_pressure_plate",
+          "aether:skyroot_chest_boat",
+          "aether:skyroot_door",
+          "aether:skyroot_fence_gate",
+          "aether:skyroot_trapdoor",
+          "aether:enchanted_gravitite"
+        ]
+      },
+      {
+        "match_tab": "aether:food_and_drinks"
+      },
+      {
+        "match_tab": "aether:ingredients"
+      }
+    ]
+  }
+}

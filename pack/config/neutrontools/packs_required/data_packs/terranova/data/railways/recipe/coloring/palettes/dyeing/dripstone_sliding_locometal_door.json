@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:tan",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/sliding_door"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:dripstone_sliding_locometal_door"
+    }
+  ]
+}

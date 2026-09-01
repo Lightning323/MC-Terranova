@@ -1,0 +1,73 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/sandstone_stairs_inner",
+  "textures": {
+    "side": "fusion_connected_blocks:block/connecting_sandstone"
+  },
+  "connections": {
+    "type": "or",
+    "predicates": [
+      {
+        "type": "and",
+        "predicates": [
+          {
+            "type": "is_direction",
+            "directions": ["left", "right"]
+          },
+          {
+            "type": "or",
+            "predicates": [
+              {
+                "type": "match_state",
+                "block": "minecraft:sandstone_slab",
+                "properties": {
+                  "type": "bottom"
+                }
+              },
+              {
+                "type": "match_state",
+                "block": "minecraft:sandstone_stairs",
+                "properties": {
+                  "half": "bottom"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "and",
+        "predicates": [
+          {
+            "type": "is_direction",
+            "directions": ["bottom_left", "bottom", "bottom_right"]
+          },
+          {
+            "type": "or",
+            "predicates": [
+              {
+                "type": "match_block",
+                "block": "minecraft:sandstone"
+              },
+              {
+                "type": "match_state",
+                "block": "minecraft:sandstone_slab",
+                "properties": {
+                  "type": ["top", "double"]
+                }
+              },
+              {
+                "type": "match_state",
+                "block": "minecraft:sandstone_stairs",
+                "properties": {
+                  "half": "top"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "mob": [
+      "mowziesmobs:elokosa_follower_howler",
+      "mowziesmobs:elokosa_howler"
+    ],
+    "when": "onjoin",
+    "result": "deny"
+  }
+]

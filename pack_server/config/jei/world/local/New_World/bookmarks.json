@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"recipe":"waystones:warp_core","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"cataclysm:void_pearl","recipeType":"create:mixing","bookmarkType":"RECIPE"}
+]

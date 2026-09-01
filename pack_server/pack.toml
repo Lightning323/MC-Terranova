@@ -1,0 +1,13 @@
+name = "Terranova Server"
+author = "Lightning323"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cfbd08807b102502be1579efeb6efd25886f6d6c03e466b214c04edf3f7ffb08"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

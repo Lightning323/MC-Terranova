@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:pink",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/iron_wrapped_boiler"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:pink_iron_wrapped_locometal_boiler"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:tan",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/rung_ladder"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:dripstone_locometal_rung_ladder"
+    }
+  ]
+}

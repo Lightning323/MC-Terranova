@@ -1,0 +1,13 @@
+name = "Dye Depot"
+filename = "dye_depot-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c9a8359857c216bb273e2ebbc89a4bfa3bf8066"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8493712
+project-id = 988504

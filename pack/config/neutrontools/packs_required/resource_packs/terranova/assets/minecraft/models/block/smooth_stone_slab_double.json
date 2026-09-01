@@ -1,0 +1,26 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "minecraft:block/smooth_stone_slab_side",
+    "bottom": "fusion_connected_blocks:block/connecting_smooth_stone",
+    "top": "fusion_connected_blocks:block/connecting_smooth_stone"
+  },
+  "connections": {
+    "bottom": {
+      "type": "match_state",
+      "block": "minecraft:smooth_stone_slab",
+      "properties": {
+        "type": ["bottom", "double"]
+      }
+    },
+    "top": {
+      "type": "match_state",
+      "block": "minecraft:smooth_stone_slab",
+      "properties": {
+        "type": ["top", "double"]
+      }
+    }
+  }
+}

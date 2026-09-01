@@ -1,0 +1,20 @@
+{
+    "northstar:blocks": {
+    "tab_name_key": "space",
+    "items_to_add": [
+    ],
+    "items_to_remove": []
+    },
+        "northstar:items": {
+    "tab_name_key": "space_2",
+    "items_to_add": [
+    ],
+    "items_to_remove": []
+    },
+            "northstar:tech": {
+    "tab_name_key": "space_3",
+    "items_to_add": [
+    ],
+    "items_to_remove": []
+    }
+}

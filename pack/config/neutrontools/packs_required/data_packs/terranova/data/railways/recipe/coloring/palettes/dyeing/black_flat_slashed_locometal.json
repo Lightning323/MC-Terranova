@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:black",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/flat_slashed"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:black_flat_slashed_locometal"
+    }
+  ]
+}

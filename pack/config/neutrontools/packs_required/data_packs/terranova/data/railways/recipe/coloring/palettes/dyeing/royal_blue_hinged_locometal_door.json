@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:navy",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/hinged_door"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:royal_blue_hinged_locometal_door"
+    }
+  ]
+}

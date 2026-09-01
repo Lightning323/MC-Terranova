@@ -1,0 +1,19 @@
+{
+  "itemGroup.neutrontools.palettes": "Palettes",
+  "itemGroup.neutrontools.bosses": "Bosses",
+  "itemGroup.neutrontools.aether": "Aether",
+  "itemGroup.neutrontools.space": "Interstellar",
+  "itemGroup.neutrontools.space_2": "Interstellar II",
+  "itemGroup.neutrontools.space_3": "Interstellar III",
+  "itemGroup.neutrontools.mechanical": "Mechanical",
+  "itemGroup.neutrontools.mechanical_2": "Mechanical II",
+  "itemGroup.neutrontools.electrical": "Electrical",
+  "itemGroup.neutrontools.diesel_generators": "Diesel",
+  "itemGroup.neutrontools.railways": "Railway",
+  "itemGroup.neutrontools.all_wood": "Wood",
+  "itemGroup.neutrontools.roofs": "Roofs",
+  "itemGroup.neutrontools.cooking": "Cooking",
+  "itemGroup.railways_palettes": "Palettes II",
+  "itemGroup.neutrontools.simulated": "Simulated",
+  "itemGroup.neutrontools.cannons": "Cannons"
+}

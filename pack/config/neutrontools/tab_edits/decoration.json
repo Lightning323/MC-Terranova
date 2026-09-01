@@ -1,0 +1,48 @@
+{
+  "create:palettes": {
+    "tab_name_key": "palettes",
+    "items_to_add": [
+      {
+        "after": "create:copycat_step",
+        "match_name": ".*copycat.*"
+      }
+    ],
+    "items_to_remove": []
+  },
+  "mcwroofs:mcwroofs": {
+    "tab_name_key": "roofs",
+    "items_to_add": [],
+    "items_to_remove": [
+      {
+        "match_name": ".*gutter"
+      }
+    ]
+  },
+  "everycomp:everycomp": {
+    "tab_name_key": "all_wood",
+    "items_to_add": [
+      {
+        "match_name": ".*chest"
+      },
+      {
+        "match_name": ".*cabinet"
+      },
+      {
+        "match_name": ".*planks"
+      },
+      {
+        "match_tags": ["minecraft:wooden_stairs"]
+      },
+      {
+        "match_tags": ["minecraft:wooden_slabs"]
+      },
+      {
+        "match_tags": ["quark:wooden_vertical_slabs"]
+      },
+      {
+        "match_tags": ["c:ladders"]
+      }
+    ],
+    "items_to_remove": []
+  }
+}

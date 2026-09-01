@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:scorchia",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/pillar"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:scorchia_locometal_pillar"
+    }
+  ]
+}

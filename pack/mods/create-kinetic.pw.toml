@@ -1,0 +1,13 @@
+name = "Create Kinetic"
+filename = "createkinetic-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E4S14KY0/versions/mAxU832C/createkinetic-1.2.6.jar"
+hash-format = "sha512"
+hash = "c7b4cddcb8945fce58bf4948c9e64ee1c2ebe49a51de65b0024c8e76119d78eec6971404dcd09f09ebf8683dc86e45c061884f30d84604faab3e4dc9cd364b2c"
+
+[update]
+[update.modrinth]
+mod-id = "E4S14KY0"
+version = "mAxU832C"

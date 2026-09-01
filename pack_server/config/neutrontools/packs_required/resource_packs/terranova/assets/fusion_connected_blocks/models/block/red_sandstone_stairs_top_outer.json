@@ -1,0 +1,73 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/red_sandstone_stairs_outer",
+  "textures": {
+    "side": "fusion_connected_blocks:block/connecting_red_sandstone"
+  },
+  "connections": {
+    "type": "or",
+    "predicates": [
+      {
+        "type": "and",
+        "predicates": [
+          {
+            "type": "is_direction",
+            "directions": ["left", "right"]
+          },
+          {
+            "type": "or",
+            "predicates": [
+              {
+                "type": "match_state",
+                "block": "minecraft:red_sandstone_slab",
+                "properties": {
+                  "type": "top"
+                }
+              },
+              {
+                "type": "match_state",
+                "block": "minecraft:red_sandstone_stairs",
+                "properties": {
+                  "half": "top"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "and",
+        "predicates": [
+          {
+            "type": "is_direction",
+            "directions": ["top_left", "top", "top_right"]
+          },
+          {
+            "type": "or",
+            "predicates": [
+              {
+                "type": "match_block",
+                "block": "minecraft:red_sandstone"
+              },
+              {
+                "type": "match_state",
+                "block": "minecraft:red_sandstone_slab",
+                "properties": {
+                  "type": ["bottom", "double"]
+                }
+              },
+              {
+                "type": "match_state",
+                "block": "minecraft:red_sandstone_stairs",
+                "properties": {
+                  "half": "bottom"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

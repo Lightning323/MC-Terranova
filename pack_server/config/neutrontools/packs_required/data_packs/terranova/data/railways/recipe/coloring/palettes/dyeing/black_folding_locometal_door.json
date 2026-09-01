@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:black",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/folding_door"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:black_folding_locometal_door"
+    }
+  ]
+}

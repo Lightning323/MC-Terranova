@@ -1,0 +1,22 @@
+{
+  "pack": {
+
+    "pack_format": 48,
+    "supported_formats": {
+      "max_inclusive": 61,
+      "min_inclusive": 48
+    },
+    "description": "Terranova"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1.21.2",
+        "formats": {
+          "max_inclusive": 61,
+          "min_inclusive": 57
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fusion_connected_blocks:block/purpur_pillar_x",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fusion_connected_blocks:block/purpur_pillar_y"
+    },
+    "axis=z": {
+      "model": "fusion_connected_blocks:block/purpur_pillar_z",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "previewBlockSize": 1.0,
+  "previewBlockTransparency": 0.8,
+  "protectTileEntities": true,
+  "maxBlockPreviews": 1024
+}

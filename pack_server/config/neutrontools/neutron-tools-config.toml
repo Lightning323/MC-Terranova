@@ -1,0 +1,12 @@
+[common]
+	verbose_mode = false
+	loadBaseDatapackDirectory = true
+	crash_commands = false
+	hunger_multiplier = 1.0
+	disable_experemental_settings_popup = true
+
+[client]
+	allow_simulated_creative_tab_edits = true
+	hide_tutorial_toasts = false
+	hide_recipe_toasts = true
+	hide_creative_tab_items_from_jei_blacklist = true

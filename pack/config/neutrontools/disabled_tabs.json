@@ -1,0 +1,23 @@
+{
+  "disabled_tabs": [
+    "create_dragons_plus:base",
+    "railways:tracks",
+    "mowziesmobs:mowziesmobs_tab",
+    "create_enchantment_industry:base",
+    "simulatedcoasters:main",
+    "cataclysm:cataclysm_block",
+    "escalated:base",
+    "aether:redstone_blocks",
+    "aether:ingredients",
+    "aether:food_and_drinks",
+    "aether:natural_blocks",
+    "aether:dungeon_blocks",
+    "aether:spawn_eggs",
+    "aether:equipment_and_utilities",
+    "kubejs:tab",
+    "catools:main",
+    "numismatics:main",
+    "aether:functional_blocks",
+    "aeroworks:main"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "railways:main": {
+    "tab_name_key": "railways",
+    "items_to_add": [
+      {
+        "match_name": "simulatedcoasters:.*",
+        "after": "railways:conductor_whistle"
+      },
+      {
+        "match_tab": "railways:tracks"
+      }
+    ],
+    "items_to_remove": []
+  }
+}

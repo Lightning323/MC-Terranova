@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:magenta",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/flat_riveted"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:magenta_flat_riveted_locometal"
+    }
+  ]
+}

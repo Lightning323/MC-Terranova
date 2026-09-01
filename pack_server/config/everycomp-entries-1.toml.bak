@@ -1,0 +1,66 @@
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.quark]
+			hollow_log = true
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			vertical_slab = true
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+		[types.wood_type.deeperdarker]
+			bloom = true
+			echo = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.northstar]
+			wilter = true
+			argyre = true
+			coiler = true
+			calorian = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.leaves_type.aether]
+			skyroot = true
+			golden_oak = true
+			crystal = true
+			crystal_fruit = true
+			holiday = true
+			decorated_holiday = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+		[types.leaves_type.northstar]
+			wilter = true
+			argyre = true
+			coiler = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true

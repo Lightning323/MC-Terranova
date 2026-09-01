@@ -1,0 +1,29 @@
+#Joystick settings.
+[Joystick]
+	#Show readout in the Joystick HUD
+	showReadout = false
+	#Show lines in the Joystick HUD
+	showLines = false
+	#Milliseconds between repeat tilt steps while a direction key is held. Lower = full deflection reached faster (snappier); higher = slower sweep.
+	# Default: 100
+	# Range: 10 ~ 2000
+	keyRepeatDelayMs = 100
+	#Grace window after the last direction-key press/release before spring-back starts decaying. Lets you tap a key repeatedly without fighting the spring between taps. Set to 0 to spring back immediately.
+	# Default: 300
+	# Range: 0 ~ 5000
+	springBackDelayMs = 300
+
+	[Thruster.Debug]
+		#Render thruster debug overlays (plume ray, obstruction hits, damage zones).
+		Thruster = false
+
+	[Thruster."Thruster Render Types"]
+		#How the thruster plume should be rendered.
+		#Allowed Values: PARTICLES, SPRITE_MESH, SPRITE_MESH_SINGLE_MULTIBLOCK
+		"Thruster Plume Type" = "PARTICLES"
+		#Allowed Values: PARTICLES, SPRITE_MESH, SPRITE_MESH_SINGLE_MULTIBLOCK
+		"Creative Thruster Plume Type" = "PARTICLES"
+		#Allowed Values: PARTICLES, SPRITE_MESH, SPRITE_MESH_SINGLE_MULTIBLOCK
+		"Ion Thruster Plume Type" = "PARTICLES"
+		#Allowed Values: PARTICLES, SPRITE_MESH, SPRITE_MESH_SINGLE_MULTIBLOCK
+		"Vector Thrusters Plume Type" = "PARTICLES"

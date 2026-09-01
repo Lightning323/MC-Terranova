@@ -1,0 +1,57 @@
+	[hotbar.common]
+		#If we want to enhance creative hotbar
+		ENHANCE_CREATIVE_HOTBAR = true
+		#If we want to enhance survival hotbar
+		ENHANCE_SURVIVAL_HOTBAR = false
+		#If we want to load hotbar selection as the correct row in inventory
+		HOTBAR_LOAD_ACTIVE_SELECTION_AS_ROW = false
+		#If we want to allow inventory rotation in survival
+		ALLOW_INVENTORY_ROTATION_IN_SURVIVAL = true
+
+	[hotbar.client]
+		#Size of enhanced hotbar (valid values: 9,12,15,18)
+		# Default: 15
+		# Range: 9 ~ 18
+		CREATIVE_HOTBAR_MAX_SIZE = 15
+		#Size of enhanced hotbar (valid values: 9,12,15,18)
+		# Default: 9
+		# Range: 9 ~ 18
+		SURVIVAL_HOTBAR_MAX_SIZE = 9
+		#Minimum number of preview slots on either side when scrolling (setting this to the max value will always keep the selector in the center)
+		# Default: 0
+		# Range: 0 ~ 100
+		HOTBAR_MIN_SCROLL_MARGIN = 0
+		#Maximum number of preview slots on either side when scrolling (setting this to the max value will always keep the selector in the center)
+		# Default: 4
+		# Range: 0 ~ 100
+		HOTBAR_MAX_SCROLL_MARGIN = 4
+
+	[reach.common]
+		#Minimum reach distance
+		# Default: 5
+		# Range: 5 ~ 128
+		REACH_MIN_RANGE = 5
+		#Maximum reach distance
+		# Default: 128
+		# Range: 5 ~ 256
+		REACH_MAX_RANGE = 128
+		#Default reach distance when we enter creative mode
+		# Default: 32
+		# Range: 5 ~ 256
+		REACH_DEFAULT_RANGE = 32
+
+	[replace.client]
+		#If we want to invert replace lock. (Default: false)
+		INVERT_REPLACE_LOCK = false
+
+	[flight.client]
+		#Whether to disable flight inertia
+		DISABLE_FLIGHT_INERTIA = true
+		#Flight speed (vanilla is 0.05)
+		# Default: 0.075
+		# Range: 0.05 ~ 1.0
+		FLIGHT_SPEED = 0.075
+
+	[noclip.client]
+		#If No-Clip should be enabled or disabled by default when logging in
+		NOCLIP_ON_LOGIN = true

@@ -1,0 +1,29 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "fusion_connected_blocks:block/connecting_purpur_pillar_top",
+    "side": "fusion_connected_blocks:block/connecting_purpur_pillar"
+  },
+  "connections": {
+    "end": {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        },
+        {
+          "type": "not",
+          "predicate": {
+            "type": "match_state_in_front",
+            "block": "minecraft:purpur_pillar",
+            "properties": {
+              "axis": "x"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

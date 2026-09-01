@@ -1,0 +1,19 @@
+{
+  "minecraft:op_blocks": {
+    "items_to_add": [
+      {
+        "names": [
+          "createkinetic:creative_honey_glue",
+          "createkinetic:assembler_stick",
+          "createkinetic:contraption_remover",
+          "createkinetic:glued_contraption_cloner",
+          "createkinetic:glued_contraption_mover",
+          "terranova:worldedit_wand",
+          "terranova:worldedit_nav"
+        ]
+      }
+    ],
+    "items_to_remove": [
+    ]
+  }
+}

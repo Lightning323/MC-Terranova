@@ -1,0 +1,21 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fusion_connected_blocks:block/connecting_weathered_copper_block"
+  },
+  "connections": {
+    "type": "or",
+    "predicates": [
+      {
+        "type": "match_block",
+        "block": "minecraft:weathered_copper"
+      },
+      {
+        "type": "match_block",
+        "block": "minecraft:waxed_weathered_copper"
+      }
+    ]
+  }
+}

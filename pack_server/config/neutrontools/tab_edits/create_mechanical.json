@@ -1,0 +1,46 @@
+{
+  "create:base": {
+    "tab_name_key": "mechanical"
+  },
+  "create_connected:main": {
+    "tab_name_key": "mechanical_2",
+    "tab_icon": {
+      "name": "create:large_cogwheel"
+    },
+    "items_to_add": [
+      {
+        "match_tab": "create_tweaked_controllers:base"
+      },
+      {
+        "match_tab": "create_power_loader:main"
+      },
+      {
+        "match_tab": "escalated:base"
+      },
+      {
+        "match_tab": "create_enchantment_industry:base"
+      },
+      {
+        "match_name": "create_dragons_plus.*"
+      },
+      {
+        "names": [
+          "terranova:heat_tile"
+        ]
+      }
+    ]
+  },
+  "createaddition:createaddition": {
+    "tab_name_key": "electrical",
+    "items_to_add": []
+  },
+  "createdieselgenerators:cdg_creative_tab": {
+    "tab_name_key": "diesel_generators"
+  },
+  "simulated:main_tab": {
+    "tab_name_key": "simulated"
+  },
+  "createbigcannons:base": {
+    "tab_name_key": "cannons"
+  }
+}

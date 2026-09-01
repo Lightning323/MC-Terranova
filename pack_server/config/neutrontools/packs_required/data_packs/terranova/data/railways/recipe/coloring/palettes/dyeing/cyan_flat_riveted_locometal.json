@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:cyan",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/flat_riveted"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:cyan_flat_riveted_locometal"
+    }
+  ]
+}

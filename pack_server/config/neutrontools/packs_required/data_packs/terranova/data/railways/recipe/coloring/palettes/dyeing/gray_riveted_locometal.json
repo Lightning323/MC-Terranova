@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:gray",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/riveted"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:gray_riveted_locometal"
+    }
+  ]
+}

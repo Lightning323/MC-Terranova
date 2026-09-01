@@ -1,0 +1,13 @@
+name = "Terranova"
+author = "Lightning323"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dd868b10498318c1f29b54063cda04637f56d28a1c926ed8188f18239ea976d0"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

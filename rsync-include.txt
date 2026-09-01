@@ -1,0 +1,22 @@
+# PROTECT: These will NEVER be deleted from the destination
+# even if they don't exist in the source.
+- pack.toml
+- index.toml
+- .packwizignore
+- .git/
+- config/fpsreducer/
+
+# 1. Specific Sub-folder Exclusions (Internal to synced folders)
+- mods/.connector/
+- mods/.index/
+
+# 2. Explicitly Include what you WANT
++ /mods/***
++ /server_mods/***
++ /config/***
++ /kubejs/***
++ /defaultconfigs/***
+
+# 3. Exclude EVERYTHING else
+# With --delete, this will wipe folders like saves/ and logs/
+- *

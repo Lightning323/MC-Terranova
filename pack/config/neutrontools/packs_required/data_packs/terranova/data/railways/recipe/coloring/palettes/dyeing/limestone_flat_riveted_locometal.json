@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:limestone",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/flat_riveted"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:limestone_flat_riveted_locometal"
+    }
+  ]
+}

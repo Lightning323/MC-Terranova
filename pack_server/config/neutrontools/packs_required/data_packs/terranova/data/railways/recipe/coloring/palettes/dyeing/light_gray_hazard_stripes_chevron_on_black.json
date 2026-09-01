@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:light_gray",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/hazard_stripes_chevron_black"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:light_gray_hazard_stripes_chevron_on_black"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:lodestone"
+    },
+    "B": {
+      "item": "dye_depot:beige_dye"
+    },
+    "P": {
+      "tag": "minecraft:stone_bricks"
+    },
+    "S": {
+      "item": "terranova:void_pearl"
+    }
+  },
+  "pattern": [
+    "  S  ",
+    " BAB ",
+    "PPAPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "waystones:beige_portstone"
+  },
+  "show_notification": false
+}

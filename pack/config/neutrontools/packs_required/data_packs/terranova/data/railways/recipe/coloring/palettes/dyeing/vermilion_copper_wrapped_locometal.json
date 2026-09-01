@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:ginger",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/copper_wrapped_slashed"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:vermilion_copper_wrapped_locometal"
+    }
+  ]
+}

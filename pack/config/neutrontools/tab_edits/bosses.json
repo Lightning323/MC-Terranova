@@ -1,0 +1,44 @@
+{
+  "cataclysm:cataclysm_item": {
+    "tab_name_key": "bosses",
+    "tab_icon": { "name": "cataclysm:witherite_ingot" },
+    "items_to_add": [
+      {
+        "match_tab": "cataclysm:cataclysm_block"
+      },
+      {
+        "match_tab": "mowziesmobs:mowziesmobs_tab"
+      },
+      {
+        "names": [
+          "terranova:pyrotide_shard",
+          "terranova:hydronite_shard",
+          "terranova:witherite_powder",
+          "terranova:black_netherite_ingot",
+          "terranova:abyssal_dust",
+          "terranova:abyssal_ingot",
+          "terranova:abyssal_pearl",
+          "terranova:cursium_dust",
+          "terranova:cursium_pearl",
+          "terranova:monstrous_dust",
+          "terranova:monstrous_pearl",
+          "terranova:ancient_dust",
+          "terranova:ancient_pearl",
+          "terranova:void_core_dust",
+          "terranova:void_ingot",
+          "terranova:void_pearl",
+          "terranova:ignitium_powder",
+          "terranova:ignitium_ingot",
+          "terranova:ignitium_pearl",
+          "terranova:coral_pearl",
+          "terranova:fire_pearl"
+        ]
+      }
+    ],
+    "items_to_remove": [
+      {
+        "name": "mowziesmobs:mob_remover"
+      }
+    ]
+  }
+}

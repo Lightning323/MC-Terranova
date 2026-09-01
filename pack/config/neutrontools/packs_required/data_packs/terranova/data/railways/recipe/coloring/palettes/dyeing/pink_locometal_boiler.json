@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:pink",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/boiler"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:pink_locometal_boiler"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:green",
+  "ingredients": [],
+  "results": [
+    {
+      "amount": 250,
+      "components": {
+        "minecraft:custom_data": {
+          "Color": "olive_green"
+        }
+      },
+      "id": "railways:paint"
+    }
+  ]
+}

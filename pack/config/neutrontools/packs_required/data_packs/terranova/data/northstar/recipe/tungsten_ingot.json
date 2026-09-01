@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "terranova:heat_tile"
+    },
+    {
+      "item": "northstar:titanium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "northstar:tungsten_ingot"
+    }
+  ],
+  "heat_requirement": "superheated"
+}

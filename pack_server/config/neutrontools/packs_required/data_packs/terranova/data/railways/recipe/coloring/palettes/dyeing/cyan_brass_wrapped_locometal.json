@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:cyan",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/brass_wrapped_slashed"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:cyan_brass_wrapped_locometal"
+    }
+  ]
+}

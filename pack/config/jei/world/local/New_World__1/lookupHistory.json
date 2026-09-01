@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_dragons_plus:white_dye"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blue_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_dragons_plus:pink_dye"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_dragons_plus:brown_dye_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

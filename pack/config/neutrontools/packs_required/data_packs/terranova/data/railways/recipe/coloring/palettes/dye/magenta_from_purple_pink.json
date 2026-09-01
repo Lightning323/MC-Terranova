@@ -1,0 +1,16 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:pink",
+  "ingredients": [],
+  "results": [
+    {
+      "amount": 250,
+      "components": {
+        "minecraft:custom_data": {
+          "Color": "magenta"
+        }
+      },
+      "id": "railways:paint"
+    }
+  ]
+}

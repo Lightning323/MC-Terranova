@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "P": {
+      "item": "terranova:monstrous_ingot"
+    }
+  },
+  "pattern": [
+    " P ",
+    "PNP",
+    " P "
+  ],
+  "result": {
+    "count": 6,
+    "id": "terranova:monstrous_pearl"
+  }
+}

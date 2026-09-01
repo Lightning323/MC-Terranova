@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "waystones:item/waystone/runes",
+		"layer1": "waystones:item/waystone/andesite_waystone"
+	}
+}

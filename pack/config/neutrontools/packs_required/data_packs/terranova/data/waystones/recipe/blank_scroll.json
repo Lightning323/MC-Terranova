@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "terranova:void_core_dust"
+    },
+    {
+      "item": "waystones:warp_dust"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "waystones:blank_scroll"
+  }
+}

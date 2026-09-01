@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "astral:copper_helmet"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:copper_diving_helmet"
+  }
+}

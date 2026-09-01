@@ -1,0 +1,6 @@
+* binary
+# We HAVE to treat all files as binary, otherwise git will mess with the files and cause invalid hash error when downloading updates
+
+#Tell git lfs to track zip and jar https://git-lfs.com/
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text

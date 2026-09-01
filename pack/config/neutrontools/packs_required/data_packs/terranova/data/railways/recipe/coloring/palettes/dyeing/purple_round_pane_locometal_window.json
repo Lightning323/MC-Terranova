@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:purple",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/round_pane_window"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:purple_round_pane_locometal_window"
+    }
+  ]
+}

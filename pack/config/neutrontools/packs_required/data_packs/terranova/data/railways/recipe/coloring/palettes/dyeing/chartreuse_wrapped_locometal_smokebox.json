@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:olive",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/brass_wrapped_smokebox"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:chartreuse_wrapped_locometal_smokebox"
+    }
+  ]
+}

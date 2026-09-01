@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:white",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/boiler"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:white_locometal_boiler"
+    }
+  ]
+}

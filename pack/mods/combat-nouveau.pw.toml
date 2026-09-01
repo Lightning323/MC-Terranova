@@ -1,0 +1,13 @@
+name = "Combat Nouveau"
+filename = "CombatNouveau-v21.1.2-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11376f1ed6f8f77631200a31b4583b49fb44775b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8030246
+project-id = 969425

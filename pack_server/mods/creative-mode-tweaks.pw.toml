@@ -1,0 +1,13 @@
+name = "Creative Mode Tweaks"
+filename = "creative_mode_tweaks-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc54256b2b53a10882df3932070ab9bc1526720c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8605059
+project-id = 1193025

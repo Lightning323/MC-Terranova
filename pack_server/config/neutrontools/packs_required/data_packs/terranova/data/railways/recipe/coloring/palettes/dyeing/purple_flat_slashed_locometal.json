@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:purple",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/flat_slashed"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:purple_flat_slashed_locometal"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:light_gray",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/rung_ladder"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:light_gray_locometal_rung_ladder"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:blue",
+  "ingredients": [
+    {
+      "item": "minecraft:white_wool"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:orange_wool"
+    }
+  ]
+}

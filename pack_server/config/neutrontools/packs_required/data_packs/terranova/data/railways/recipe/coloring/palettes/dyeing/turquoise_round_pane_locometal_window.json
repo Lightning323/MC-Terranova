@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:teal",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/round_pane_window"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:turquoise_round_pane_locometal_window"
+    }
+  ]
+}

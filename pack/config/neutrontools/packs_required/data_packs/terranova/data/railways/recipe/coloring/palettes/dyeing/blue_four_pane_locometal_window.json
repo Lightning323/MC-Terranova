@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:blue",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/four_pane_window"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:blue_four_pane_locometal_window"
+    }
+  ]
+}

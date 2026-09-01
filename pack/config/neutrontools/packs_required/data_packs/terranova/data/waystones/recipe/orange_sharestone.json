@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:lodestone"
+    },
+    "B": {
+      "item": "minecraft:orange_dye"
+    },
+    "P": {
+      "tag": "minecraft:stone_bricks"
+    },
+    "S": {
+      "item": "terranova:void_pearl"
+    }
+  },
+  "pattern": [
+    "PPAPP",
+    " ABA ",
+    "  S  ",
+    " ABA ",
+    "PPPPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "waystones:orange_sharestone"
+  },
+  "show_notification": false
+}

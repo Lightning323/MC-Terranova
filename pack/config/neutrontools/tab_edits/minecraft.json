@@ -1,0 +1,128 @@
+{
+  "minecraft:tools_and_utilities": {
+    "items_to_add": [
+      {
+        "match_tab": "aether:equipment_and_utilities"
+      }
+    ],
+    "items_to_remove": []
+  },
+  "minecraft:ingredients": {
+    "items_to_add": [
+      {
+        "after": "minecraft:ominous_trial_key",
+        "match_tab": "aether:ingredients"
+      }
+    ],
+    "items_to_remove": []
+  },
+  "minecraft:functional_blocks": {
+    "items_to_add": [
+      {
+        "match_name": "farmersdelight:.*(net|rug|mat|cabinet|rope|canvas|sign|tatami).*"
+      }
+    ],
+    "items_to_remove": []
+  },
+  "minecraft:spawn_eggs": {
+    "items_to_add": [
+      {
+        "match_tab": "aether:spawn_eggs"
+      },
+      {
+        "match_name": "deeperdarker:.*spawn_egg"
+      },
+      {
+        "match_name": "northstar:.*spawn_egg"
+      },
+      {
+        "match_name": ".*:.*spawn_egg"
+      }
+    ],
+    "items_to_remove": []
+  },
+  "minecraft:redstone_blocks": {
+    "items_to_add": [
+      {
+        "match_tab": "aether:redstone_blocks",
+        "index": 20
+      }
+    ],
+    "items_to_remove": []
+  },
+  "minecraft:food_and_drinks": {
+    "items_to_add": [
+      {
+        "match_tab": "aether:food_and_drinks",
+        "index": 40
+      }
+    ],
+    "items_to_remove": []
+  },
+  "minecraft:combat": {
+    "items_to_add": [
+      {
+        "after": "minecraft:turtle_helmet",
+        "match_tab": "aether:armor_and_accessories"
+      },
+      {
+        "after": "minecraft:turtle_helmet",
+        "names": [
+          "deeperdarker:resonarium_sword",
+          "deeperdarker:warden_sword",
+          "deeperdarker:resonarium_helmet",
+          "deeperdarker:resonarium_chestplate",
+          "deeperdarker:resonarium_leggings",
+          "deeperdarker:resonarium_boots",
+          "deeperdarker:warden_helmet",
+          "deeperdarker:warden_chestplate",
+          "deeperdarker:warden_leggings",
+          "deeperdarker:warden_boots",
+          "supplementaries:cannon"
+        ]
+      }
+    ],
+    "items_to_remove": []
+  },
+  "minecraft:natural_blocks": {
+    "items_to_add": [
+      {
+        "match_tab": "aether:natural_blocks"
+      },
+      {
+        "match_name": "everycomp:.*hedge",
+        "hide_old_tab": true,
+        "index": -1
+      },
+      {
+        "match_name": "everycomp:.*carpet",
+        "hide_old_tab": true,
+        "index": -1
+      },
+      {
+        "match_tags": [
+          "forge:ores"
+        ],
+        "hide_old_tab": true,
+        "index": 56
+      }
+    ],
+    "items_to_remove": []
+  },
+  "minecraft:op_blockss": {
+    "items_to_add": [
+      {
+        "name": "terranova:worldedit_wand"
+      },
+      {
+        "name": "terranova:worldedit_nav"
+      },
+      {
+        "match_name": ".*creative.*"
+      },
+      {
+        "match_tab": "catools:main"
+      }
+    ]
+  }
+}

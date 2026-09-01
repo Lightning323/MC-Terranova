@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:black",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/copper_wrapped_slashed"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:black_copper_wrapped_locometal"
+    }
+  ]
+}

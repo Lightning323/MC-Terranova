@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:maroon",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/riveted"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:maroon_riveted_locometal"
+    }
+  ]
+}

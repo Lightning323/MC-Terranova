@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:navy",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/four_pane_window"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:royal_blue_four_pane_locometal_window"
+    }
+  ]
+}
