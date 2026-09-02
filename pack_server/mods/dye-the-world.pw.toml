@@ -1,13 +1,13 @@
 name = "Dye The World"
-filename = "dye_the_world-2.3.4.jar"
+filename = "dye_the_world-2.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "11841eb940d8f807ce4b75b25443a5145919064a"
+hash = "74bf0fcb43d97ec9f3934dad78b8cb6a94f8f502"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8525710
+file-id = 8761161
 project-id = 1135725
