@@ -1,13 +1,13 @@
 name = "Creative Mode Tweaks"
-filename = "creative_mode_tweaks-2.0.1.jar"
+filename = "creative_mode_tweaks-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fyecrpLB/versions/rSuVx1pg/creative_mode_tweaks-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/fyecrpLB/versions/hBSOlkmn/creative_mode_tweaks-2.1.0.jar"
 hash-format = "sha512"
-hash = "c9a083e8c784d132eb3bf13f11c88c9192a6f472d1b270de0aba84bcaaf98e071ecac7df88d7d347a9ca6b6f961fe72dac1810c7674fcb89a04b510d4b198ead"
+hash = "9c57af916f8051505327c75b44730a403095e7ec30b470462ebd7c2a349cbe032de52ff7167856790c8db15b79ed86f49cf9f124f3bec3d4f26c0f0aafe0097c"
 
 [update]
 [update.modrinth]
 mod-id = "fyecrpLB"
-version = "rSuVx1pg"
+version = "hBSOlkmn"

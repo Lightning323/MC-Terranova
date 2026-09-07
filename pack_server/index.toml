@@ -15312,7 +15312,7 @@ metafile = true
 
 [[files]]
 file = "mods/creative-mode-tweaks.pw.toml"
-hash = "bf6d828bd6fe11b51237281e941a48488344b7781ec066a7655773b30aafd757"
+hash = "275e8e2686d8b3a0c9f01903609a7b545a44c1fb9e093ad57ada720f0e641542"
 metafile = true
 
 [[files]]
@@ -15397,7 +15397,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3c513e51d7c76336af827569fb3107417b77d75dd6da9485a88ed5715bdc3647"
+hash = "9f9089654842dfabaf55536ef603bdb475a201ea7cf934a6998a94b7f032421a"
 metafile = true
 
 [[files]]
@@ -15472,7 +15472,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e083886bf7dfc35e16380e416eeeefd5603f72712fee1f9097cbc533b0365c3f"
+hash = "89b9434e40a39e9a2de633b00d8dac3e1081db7c9632512fbc07e68f0ccbe547"
 metafile = true
 
 [[files]]
