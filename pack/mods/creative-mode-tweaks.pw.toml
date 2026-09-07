@@ -1,13 +1,13 @@
 name = "Creative Mode Tweaks"
-filename = "creative_mode_tweaks-1.2.4.jar"
+filename = "creative_mode_tweaks-2.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fc54256b2b53a10882df3932070ab9bc1526720c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fyecrpLB/versions/rSuVx1pg/creative_mode_tweaks-2.0.1.jar"
+hash-format = "sha512"
+hash = "c9a083e8c784d132eb3bf13f11c88c9192a6f472d1b270de0aba84bcaaf98e071ecac7df88d7d347a9ca6b6f961fe72dac1810c7674fcb89a04b510d4b198ead"
 
 [update]
-[update.curseforge]
-file-id = 8605059
-project-id = 1193025
+[update.modrinth]
+mod-id = "fyecrpLB"
+version = "rSuVx1pg"
