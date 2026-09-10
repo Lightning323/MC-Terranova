@@ -15308,12 +15308,12 @@ metafile = true
 
 [[files]]
 file = "mods/creative-mode-tweaks.pw.toml"
-hash = "43a59477977b4b81df1a3b661714a5ab36295bfc97534db0c7babb34473a489f"
+hash = "b124b5ac630ed197dfc22226a1c2840243a8929400a4487e530eca0c2c003a15"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
+hash = "ee67d289146b7330d5977e524dec564ae6cb55585a6d5ecd7f472220044a9880"
 metafile = true
 
 [[files]]
@@ -15393,7 +15393,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9f9089654842dfabaf55536ef603bdb475a201ea7cf934a6998a94b7f032421a"
+hash = "36d7a7aa4d5699795131cbf7ef5e6a81c747aa1c25b1a5fb37cf6847020e5dae"
 metafile = true
 
 [[files]]
@@ -15498,7 +15498,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "25ac0ddef57c94077aaed4eed2894cda6f7c221be5bcd2a9a2b799c96a70dd27"
+hash = "8532de1bebd0adbaefe89aead1c038e6449e5b7e8f4a8d8663a6f2555954e063"
 metafile = true
 
 [[files]]
@@ -15528,7 +15528,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "29283a1bf54fc452f2bc001ab9fcc5e02041788f5a4103be9620d7686408e037"
+hash = "24d2d04bd35de31d5f3a19579b4ee1596cab14e8a171bea5de7594a63a6bb9cd"
 metafile = true
 
 [[files]]
@@ -15551,12 +15551,12 @@ hash = "a89c3c0d48c0c261e3c666622bba66ba0b8c14e738650cb77b183f73c6d7236a"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
+hash = "72f10bccb7f9767b2a731dda29aaeacdd4671971e8adaebe8840be9ca0090c31"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2ba7eb6ca5c2c9886cfb1bb23ed56fbbcaac3d4d3b1b185dc550ed61b66ecce1"
+hash = "a71c5d8a681bc8d891495e166a75de7715007ae8509b5bb45904763b0eae5224"
 metafile = true
 
 [[files]]
