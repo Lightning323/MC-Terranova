@@ -217,10 +217,6 @@ file = "config/createkinetic-common.toml"
 hash = "a1ee7fb0654a3109a5211e9a439403d960ce0186a2923678de26162e98a4a357"
 
 [[files]]
-file = "config/creative_mode_tweaks-common.toml"
-hash = "a1553ac64f723643ae0c378366195b7e1246857197865745aac127eed2dee7b9"
-
-[[files]]
 file = "config/cumulus_menus-client.toml"
 hash = "9f25ef18d252a46fcc8caf9f98a801cbe83c2ad0d6b7fa38aaae152df7139c15"
 
@@ -15235,7 +15231,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "aeaf3e980a790f22c302dbc12869d40f6ef77cfbeec2be17d5aeacdf516fc039"
+hash = "f4b68affa5de7099764f0a8280836d4f9047e697dba9c320fb9e5ec2ed9638f5"
 metafile = true
 
 [[files]]
@@ -15300,7 +15296,7 @@ metafile = true
 
 [[files]]
 file = "mods/creative-mode-tweaks.pw.toml"
-hash = "583908a310dfc3a5fcd77d795a77fdb6a464d8a3c525cbfc03dc95d3337c52d2"
+hash = "43a59477977b4b81df1a3b661714a5ab36295bfc97534db0c7babb34473a489f"
 metafile = true
 
 [[files]]
@@ -15440,7 +15436,7 @@ metafile = true
 
 [[files]]
 file = "mods/northstar-redux.pw.toml"
-hash = "54f4bb25aa9018346643aa8ace55209ebb67f7ffa0f22300c018e590fae9ffbf"
+hash = "2aff0c42ac84c8acfdab19d13dda9811df6707b0aaaacd1f008819124d55fd7d"
 metafile = true
 
 [[files]]
@@ -15470,7 +15466,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
+hash = "8882572e1eee8dad7cca2cbe1b07c770b0e51a233f7ff3d7be6c454cad28042a"
 metafile = true
 
 [[files]]
@@ -15534,7 +15530,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "1316f9c04d36621a61989319e047735fd83e4b0e951dd6c89318ff8b4dfc1b4d"
+hash = "c7f4b4f9de801780ebe4a79ad468bec6febd8239796ef84e6d8dab905384ca73"
 metafile = true
 
 [[files]]
