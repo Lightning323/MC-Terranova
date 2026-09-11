@@ -15546,10 +15546,6 @@ hash = "c7f4b4f9de801780ebe4a79ad468bec6febd8239796ef84e6d8dab905384ca73"
 metafile = true
 
 [[files]]
-file = "mods/worldedit-mod-7.3.8.jar"
-hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "72f10bccb7f9767b2a731dda29aaeacdd4671971e8adaebe8840be9ca0090c31"
 metafile = true
