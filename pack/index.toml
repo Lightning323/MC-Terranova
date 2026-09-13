@@ -15296,7 +15296,7 @@ metafile = true
 
 [[files]]
 file = "mods/creative-mode-tweaks.pw.toml"
-hash = "ef3f9ede515883e2f9ec7b744e1d0e71cc250fda4c43dcbb6c1e4348d7b66c4e"
+hash = "3a66d34b5c90ff01798ef00e3f36440ca1fb3a43a1547ed35a31c7e9e51a95f8"
 metafile = true
 
 [[files]]
@@ -15386,7 +15386,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c430b477285dd0ab4397cf69257cf01b558f7db6490dfa9e69ec37e7762290bc"
+hash = "0e06a4882a44f5e5e2017364e9d34ba5a19bf7be25b6397f723bc680c894746e"
 metafile = true
 
 [[files]]
@@ -15530,7 +15530,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "c7f4b4f9de801780ebe4a79ad468bec6febd8239796ef84e6d8dab905384ca73"
+hash = "42b53ca74c99b3d0edb2ef4e07896b269fd058e049e44e8503d8fd921342eee8"
 metafile = true
 
 [[files]]
