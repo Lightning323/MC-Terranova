@@ -1,0 +1,43 @@
+[hotbar]
+	#Size of enhanced hotbar (valid values: 9,12,15,18)
+	# Default: 9
+	# Range: 9 ~ 18
+	creative_hotbar_max_size = 9
+	#Size of enhanced hotbar (valid values: 9,12,15,18)
+	# Default: 9
+	# Range: 9 ~ 18
+	survival_hotbar_max_size = 9
+	#Minimum number of preview slots on either side when scrolling (setting this to the max value will always keep the selector in the center)
+	# Default: 0
+	# Range: 0 ~ 100
+	hotbar_min_scroll_margin = 0
+	#Maximum number of preview slots on either side when scrolling (setting this to the max value will always keep the selector in the center)
+	# Default: 4
+	# Range: 0 ~ 100
+	hotbar_max_scroll_margin = 4
+	#While a Shift Inventory Rows key is held, expand the hotbar into a 4x9 grid showing the full inventory. Releases back to a single row on key release.
+	show_full_inventory_while_rotating = true
+	#How long (in seconds) the 4x9 full-inventory preview stays open after releasing a Shift Inventory Rows key. 0 closes immediately on release.
+	# Default: 2.5
+	# Range: 0.0 ~ 10.0
+	full_inventory_preview_hold_seconds = 2.0
+
+[building]
+	#Transparency of block previews. 0% = invisible, 100% = solid.
+	# Default: 0.8
+	# Range: 0.0 ~ 1.0
+	preview_block_transparency = 0.8
+	#Prevent build modes from replacing or breaking blocks with block entities.
+	protect_tile_entities = true
+	#Where the preview border bakes. Both options stay off the render thread.
+	#On: border rides the ghost-block worker (one bake, one handoff; lags behind slow ghosts).
+	#Off: border bakes on its own dedicated worker; the render loop picks it up from there.
+	async_boundary = false
+	#Show messages when blocks are rejected due to placement rules.
+	show_placement_rejection_messages = false
+
+	[building.creative]
+		#How big the number of blocks should be when throttling the preview rendering.
+		# Default: 200000
+		# Range: > 1
+		render_throttle_blocks = 200000
