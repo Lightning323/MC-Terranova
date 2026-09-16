@@ -217,14 +217,6 @@ file = "config/createkinetic-common.toml"
 hash = "a1ee7fb0654a3109a5211e9a439403d960ce0186a2923678de26162e98a4a357"
 
 [[files]]
-file = "config/creative_mode_tweaks-client.toml"
-hash = "a1f33526f02f7eff4a4a9af6886ea7c0bf8ec60ca575c8d4b14b8a4d87d0b75f"
-
-[[files]]
-file = "config/creative_mode_tweaks-common.toml"
-hash = "e0bebf1be66b10d98e0202da622036364f48c1b241123e122bb605288a3886bb"
-
-[[files]]
 file = "config/cumulus_menus-client.toml"
 hash = "9f25ef18d252a46fcc8caf9f98a801cbe83c2ad0d6b7fa38aaae152df7139c15"
 
@@ -15299,7 +15291,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "f0e7bca98eed4c0747156c8dd9d59ec7e081bf1cb9b900f6139a72107a57f0eb"
+hash = "c7f69b2de149dd01dd6b7a73b45c19d246d583c691a74c1e3ff0b80909481a9a"
 metafile = true
 
 [[files]]
@@ -15314,7 +15306,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "55f8f5c6152e6c0ceb79d38ca741910665754d1ce0755234b09318923e586e43"
+hash = "8e83d6344bba3711337872275843631ec1046884d44b1b579f3c4566448c3697"
 metafile = true
 
 [[files]]
@@ -15344,7 +15336,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "4407996479ceab78adb20a33c634773f5e9da9f3f585472f13221e9bb456e95a"
+hash = "ad90b35d953694bdd8f8f1efa7b05415686155760ec3def1ff69e26eb21341aa"
 metafile = true
 
 [[files]]
@@ -15384,7 +15376,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
+hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
 metafile = true
 
 [[files]]
@@ -15394,7 +15386,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "58ed8e868a732911b326d45f10478dfd959b2717d720e1a60c8e1230f8bc1da2"
+hash = "0e06a4882a44f5e5e2017364e9d34ba5a19bf7be25b6397f723bc680c894746e"
 metafile = true
 
 [[files]]
@@ -15474,7 +15466,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "ddf213b8ba47e0651dc89081db34c5d5350b792ba395e81da70200e593ec310c"
+hash = "8882572e1eee8dad7cca2cbe1b07c770b0e51a233f7ff3d7be6c454cad28042a"
 metafile = true
 
 [[files]]
