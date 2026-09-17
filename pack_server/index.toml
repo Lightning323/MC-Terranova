@@ -593,6 +593,10 @@ file = "config/neutrontools/ordered_tabs.json"
 hash = "24e52bf5aa2e5d214ac4510725a25c1443557706ae78c10c3809d5646ccffbe7"
 
 [[files]]
+file = "config/neutrontools/packs_optional/resource_packs/Deep Grass.zip"
+hash = "4d4eb5575d350e1fbfd346720a2b9b079a7e89f9da098e65fd2711f920f3fd8c"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/CREDIT.txt"
 hash = "50f33c6cabad069e11f03a7a0401366ad4d6db0ada59964858344cff2e8ea4c4"
 
@@ -10009,30 +10013,6 @@ file = "config/neutrontools/packs_required/data_packs/terranova/pack.mcmeta"
 hash = "209fb2955665afae803f815b1ab94eb41de65a7fd17ae08e1a69bcd7fef0b82c"
 
 [[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/aether_dirt.png"
-hash = "88986e5986763baf62fe270432ed1d2cbde5f403f45db6b84dfb4bda4f143ef2"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/aether_grass_block_side.png"
-hash = "3814c785a6d79e2e1c3ee1cad55fc4011ec314e48cf9807d6b4599ab28fddf5c"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/aether_grass_block_snow.png"
-hash = "2a50747d2c685fd6999e347e55db079064828ec39868704cd5b7577f916bd01e"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/aether_grass_block_top.png"
-hash = "0cd037eb5457331920b261dc1a1d705e7be2048396443f137898e18f011d0f33"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/enchanted_aether_grass_block_side.png"
-hash = "fd5813932fb92829e89036b0f72178c3b89b2fe0a5b63182c8f44df37eae9a48"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/enchanted_aether_grass_block_top.png"
-hash = "744a49cbf9ea7f8976a2946a84469b113644dbb947c305fd60fd803c074a9d03"
-
-[[files]]
 file = "config/neutrontools/packs_required/resource_packs/terranova/assets/create_connected/models/block/brake/block.json"
 hash = "6920ad77920f8a8930765a9df660b48f4794779e4524324146cee9eaf77ab197"
 
@@ -15186,11 +15166,11 @@ hash = "e0a98b9f57abf88c8ea99d99c15df2025087a3e3501040e829003ac3f8442fac"
 
 [[files]]
 file = "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
-hash = "de556f940b95cfaa25adea4a54b63e07f91a9ea208d788cf8ca1ba7b21680bde"
+hash = "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
 
 [[files]]
 file = "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
-hash = "1d92cf08f71941c994584a177047fb863f0ab73d817e1b7801a1e4c29c77b2ed"
+hash = "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff"
 
 [[files]]
 file = "mods/aether.pw.toml"
@@ -15229,12 +15209,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "65a5507210eb65784bf6abb87ba8a95bd69e76654a2ef999cb1a15e1a40d0af0"
+hash = "8a0bea28f988792ff9093667d301f33015fb3cdd6bffb4648c842f0b246caf80"
 metafile = true
 
 [[files]]
 file = "mods/checkersworld-1.0.0-1.21.1.jar"
-hash = "a7e8997130689c3edafb08a7f815ce1be53f8b6580da8107388da4f7d33bf801"
+hash = "3ea1bded2ec1b085df20f2913feddd98bae05eabcdb1a5d2cecfc83dea06d188"
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
@@ -15318,7 +15298,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "8e83d6344bba3711337872275843631ec1046884d44b1b579f3c4566448c3697"
+hash = "55f8f5c6152e6c0ceb79d38ca741910665754d1ce0755234b09318923e586e43"
 metafile = true
 
 [[files]]
@@ -15388,7 +15368,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "7f28e1665be4355b1eecdd037c8d028fb7176ff940a729dc5e94aa234978ed8d"
+hash = "8311cf201aa8d3c5d0c0291194f3c76d825591122b7ccf4f2fea08f6b39af526"
 metafile = true
 
 [[files]]

@@ -593,6 +593,10 @@ file = "config/neutrontools/ordered_tabs.json"
 hash = "24e52bf5aa2e5d214ac4510725a25c1443557706ae78c10c3809d5646ccffbe7"
 
 [[files]]
+file = "config/neutrontools/packs_optional/resource_packs/Deep Grass.zip"
+hash = "4d4eb5575d350e1fbfd346720a2b9b079a7e89f9da098e65fd2711f920f3fd8c"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/CREDIT.txt"
 hash = "50f33c6cabad069e11f03a7a0401366ad4d6db0ada59964858344cff2e8ea4c4"
 
@@ -10007,30 +10011,6 @@ hash = "1c0e60e3629ce192c6198d414187ba880cfc77f62871e2f2adc55a8f2d47dca8"
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/pack.mcmeta"
 hash = "209fb2955665afae803f815b1ab94eb41de65a7fd17ae08e1a69bcd7fef0b82c"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/aether_dirt.png"
-hash = "88986e5986763baf62fe270432ed1d2cbde5f403f45db6b84dfb4bda4f143ef2"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/aether_grass_block_side.png"
-hash = "3814c785a6d79e2e1c3ee1cad55fc4011ec314e48cf9807d6b4599ab28fddf5c"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/aether_grass_block_snow.png"
-hash = "2a50747d2c685fd6999e347e55db079064828ec39868704cd5b7577f916bd01e"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/aether_grass_block_top.png"
-hash = "0cd037eb5457331920b261dc1a1d705e7be2048396443f137898e18f011d0f33"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/enchanted_aether_grass_block_side.png"
-hash = "fd5813932fb92829e89036b0f72178c3b89b2fe0a5b63182c8f44df37eae9a48"
-
-[[files]]
-file = "config/neutrontools/packs_required/resource_packs/terranova/assets/aether/textures/block/natural/enchanted_aether_grass_block_top.png"
-hash = "744a49cbf9ea7f8976a2946a84469b113644dbb947c305fd60fd803c074a9d03"
 
 [[files]]
 file = "config/neutrontools/packs_required/resource_packs/terranova/assets/create_connected/models/block/brake/block.json"
