@@ -15220,16 +15220,6 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
-metafile = true
-
-[[files]]
-file = "mods/client-crafting.pw.toml"
-hash = "55df2b553b2ff4bc51bec0f1128a9b1d1d5c0ab713f0a074d8f7e8f0fc524c6f"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -15242,11 +15232,6 @@ metafile = true
 [[files]]
 file = "mods/combat-nouveau.pw.toml"
 hash = "e051d7bbd0b3383e4b2b6864f3ff80d1608576dab5ee614e9e9880d882d06f85"
-metafile = true
-
-[[files]]
-file = "mods/connectivity.pw.toml"
-hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
@@ -15312,11 +15297,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "36ba6ade58f4c13c623743ee4b18e92a56355d3014e6c05fb6d7183d13fb9d83"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
-hash = "55f8f5c6152e6c0ceb79d38ca741910665754d1ce0755234b09318923e586e43"
 metafile = true
 
 [[files]]
@@ -15502,11 +15482,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "f55b8c6587d7c648f205e525e7c77e79f44da97c35b42e0bf2bf2706e02d238c"
 metafile = true
 
 [[files]]

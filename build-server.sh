@@ -9,13 +9,20 @@ cd pack_server
 ################################################################################
 ## Edit server side mods ########################################################
 ################################################################################
-#C2me or dynamic view but not both, pick one
-packwiz curseforge add c2me -y
-# packwiz curseforge add dynamic-view
 
+# Some optimization mods would either be un-needed on the client or are not hosted on modrinth and therefore cause issues
+
+#Chunk loading
+packwiz curseforge add c2me -y
 packwiz curseforge add zfastnoise -y
-packwiz curseforge add smooth-chunk-save -y
+
+#networking
+packwiz curseforge add https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save -y
+packwiz curseforge add https://www.curseforge.com/minecraft/mc-mods/connectivity -y
+
+#item stack lag
 packwiz curseforge add leaky -y
+
 #For disabling certain mobs (optional)
 packwiz modrinth add in-control -y
 
