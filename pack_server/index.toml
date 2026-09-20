@@ -15507,11 +15507,6 @@ hash = "ddf213b8ba47e0651dc89081db34c5d5350b792ba395e81da70200e593ec310c"
 metafile = true
 
 [[files]]
-file = "mods/ritchies-projectile-library.pw.toml"
-hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
-metafile = true
-
-[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
@@ -15549,11 +15544,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
-metafile = true
-
-[[files]]
-file = "mods/steam-n-rails-neoforge.pw.toml"
-hash = "a2681409a01e496281b21d383cb28043efc4425f7110d21dfd8b6362e258a817"
 metafile = true
 
 [[files]]
