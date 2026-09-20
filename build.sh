@@ -3,9 +3,6 @@
 cd pack
 
 packwiz refresh
-packwiz curseforge export -o ../dist/pack_prebuilt.zip
-# packwiz modrinth export -o ../dist/pack_prebuilt_mr.mrpack
-
 cd ../
 
 ./build-server.sh

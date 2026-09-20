@@ -3,11 +3,11 @@ filename = "Northstar-0.6.5+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6c6683d3c631662d9d603c0be45d9d0e4002f772"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/UZiq3QVW/versions/DnRbB3Dp/Northstar-0.6.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "36f054dd84fb0020cbe4b4e1f46bd177f29175097081c91cb83199ca51a22b64b3b1f97b8f2c40d98d6c90c4840ce9a93d14fc50eb38c78f12403ab7fd5c447a"
 
 [update]
-[update.curseforge]
-file-id = 8844708
-project-id = 1318310
+[update.modrinth]
+mod-id = "UZiq3QVW"
+version = "DnRbB3Dp"
