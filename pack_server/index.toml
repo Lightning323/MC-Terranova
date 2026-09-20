@@ -425,6 +425,26 @@ file = "config/iris.properties"
 hash = "d4e7cb573bb7526e9ebed123e9fefc98ce99d4d3aca2d54bac669f72dad7992e"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "8ef084861bb06da706d8750f85331e277948f8bce3f903a1a1138b791d083ac4"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "2d803c6c86a821f97ad61752ef50a671f68fceed124552bd83af373d7fcd08f7"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "1e46ddc267a65198043b24123e410dbf27d73c0509e7e177b4181bfc3bfa0161"
+
+[[files]]
 file = "config/jei-server.toml"
 hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 
@@ -15263,12 +15283,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "270252746b2ca4413d26e4550af0124ecaca5279d00af1625fde4ddfbed5d466"
+hash = "962de0c35fb8d298b70ce4026fb149c5cf0204487bc1ed22d905dde1dbebd70c"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "3081454bb18ab118d7b449a10bf1350d0761ab6892cd88b2ec59b4eb25e375f1"
+hash = "dfefcc67e4c0de95cf4b32bc22811d565f84a50c11700616063e335954d96096"
 metafile = true
 
 [[files]]
@@ -15283,7 +15303,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "c7f69b2de149dd01dd6b7a73b45c19d246d583c691a74c1e3ff0b80909481a9a"
+hash = "f0e7bca98eed4c0747156c8dd9d59ec7e081bf1cb9b900f6139a72107a57f0eb"
 metafile = true
 
 [[files]]
@@ -15369,6 +15389,11 @@ metafile = true
 [[files]]
 file = "mods/in-control.pw.toml"
 hash = "8311cf201aa8d3c5d0c0291194f3c76d825591122b7ccf4f2fea08f6b39af526"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
@@ -15458,7 +15483,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "8882572e1eee8dad7cca2cbe1b07c770b0e51a233f7ff3d7be6c454cad28042a"
+hash = "ddf213b8ba47e0651dc89081db34c5d5350b792ba395e81da70200e593ec310c"
 metafile = true
 
 [[files]]
@@ -15517,7 +15542,7 @@ hash = "86f908d57b6a5811025ea094a632820a307a132b67cbac8ece90c77143962ddc"
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
+hash = "43dff38c9134d99ea942634cba5e02fa2cc7148cdbda32ee6faa04baa17a03d2"
 metafile = true
 
 [[files]]

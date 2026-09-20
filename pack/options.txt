@@ -275,3 +275,11 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+key_key.jade.config:key.keyboard.unknown
+key_key.jade.show_overlay:key.keyboard.unknown
+key_key.jade.toggle_liquid:key.keyboard.unknown
+key_key.jade.show_recipes:key.keyboard.unknown
+key_key.jade.show_uses:key.keyboard.unknown
+key_key.jade.narrate:key.keyboard.unknown
+key_key.jade.show_details:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.unknown
