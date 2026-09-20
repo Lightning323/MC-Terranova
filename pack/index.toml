@@ -594,7 +594,7 @@ hash = "ec614cafa950e8fb5c77d497a8bb0b0fa44b8f88c0a0b7767515fdb94f116340"
 
 [[files]]
 file = "config/neutrontools/cached_original_tabs.json"
-hash = "fcdd062767a5d662e1d9737f4fd052f693378583db199452ad94756d63374520"
+hash = "f2f92452732e466b77da8cf21728b94dafa9e69068912add2e040b428afc1eeb"
 
 [[files]]
 file = "config/neutrontools/disabled_items.json"
@@ -602,7 +602,23 @@ hash = "a47f246102c12aa7e91b98a502abd535222d183d854d992ab490846d69a1f1b2"
 
 [[files]]
 file = "config/neutrontools/disabled_tabs.json"
-hash = "0bb4bfaab30abdac3f53bf9bdb0fcdd4a3dedf6aa9a382b581b8d383ecaae212"
+hash = "1e6f0c5788a1e4e784eb2b2e90866cfa276c9c405cf5aa923d218b37a755daf0"
+
+[[files]]
+file = "config/neutrontools/generated/block_list.txt"
+hash = "b8c859ddc7b62c4090975efb6cc4ab549cf937acdb26b55c942163fce23246d4"
+
+[[files]]
+file = "config/neutrontools/generated/entity_list.txt"
+hash = "2c5dea416bce5ccc1e455f32ab1646a1eca6825ba9d0bd0e3e3e134f4fe152f2"
+
+[[files]]
+file = "config/neutrontools/generated/item_list.txt"
+hash = "c135aebedf5110ff3e23f8af966b78d23ce69c7679d919a239cd86d3770f3241"
+
+[[files]]
+file = "config/neutrontools/keybinds.json"
+hash = "5a309afd976f79ebb055926c2a239d16442e893f5fae9eac5078345926258fe7"
 
 [[files]]
 file = "config/neutrontools/neutron-tools-config.toml"
@@ -610,7 +626,7 @@ hash = "5543113b1fca39583d4e5981e2e13354b00b0c8cc97cb6ebcae670b81c5c45c4"
 
 [[files]]
 file = "config/neutrontools/ordered_tabs.json"
-hash = "24e52bf5aa2e5d214ac4510725a25c1443557706ae78c10c3809d5646ccffbe7"
+hash = "f1b32614ded4a162b6d4a78842a1e4b626d774196b1d503a3764a6fe4e08d161"
 
 [[files]]
 file = "config/neutrontools/packs_optional/resource_packs/Deep Grass.zip"
@@ -14341,8 +14357,8 @@ file = "config/neutrontools/packs_required/resource_packs/terranova/pack.mcmeta"
 hash = "99be962bcf199ba1403b305b4ef25963f7fb53a1a3e22474a993fe64d6a0902a"
 
 [[files]]
-file = "config/neutrontools/tab_edits/aether.json"
-hash = "ec96f63848e4903367424cbb6f49219d926fea53c6eade253b7acbcc27cd2f46"
+file = "config/neutrontools/readme.txt"
+hash = "27e7e6d27e03f2405701b479798d8c19247750fc47e85b572fbb5d0e0e76e903"
 
 [[files]]
 file = "config/neutrontools/tab_edits/bosses.json"
@@ -14362,7 +14378,7 @@ hash = "16b5ad05fe269e93118efc5ff38cde31f5f17830f2ea2ba2f7feb781edce8f1a"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft.json"
-hash = "fd9e7fd1993b93a144d799a99ac158c31d224fc945caabdb50115546f40d9560"
+hash = "c9066b5fb5936460404a25922ffcc57a2e994bf8ada2c96960933f7af5a6e2cc"
 
 [[files]]
 file = "config/neutrontools/tab_edits/op.json"
@@ -14374,7 +14390,7 @@ hash = "86fe6c4eade83d73f1ed173511fe5aa1a10b822e8be874ae7140c1acd572dac4"
 
 [[files]]
 file = "config/neutrontools/tab_edits/space.json"
-hash = "574e4c6147b34fc49d956d97dbd877dc23d7718c9f16ab5728f0ee51c26baa02"
+hash = "1fb619c0ebb90a1e500b9d1d7aaaa7655e64d2b98e4a624663ca943de6b3f225"
 
 [[files]]
 file = "config/neutrontools/tab_items.json"
@@ -15138,7 +15154,7 @@ hash = "f9ce478a7263a91a9234e4b6414fce1e4b1a62968350d0557d594d1ff78bab74"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "0f68b24384e7fb340ca86a89de0b0d652ce82f1cd5fc353cc2c2fe950d5310de"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
@@ -15381,7 +15397,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0a8e07c8ad09d0699b074d77d0c3ca4e4849da1ef44a19b7a8cf32d67bb25913"
+hash = "2a740b39e014011fa33d9e169a4ded38d68dd8da6f244a17a4df4fd38c865613"
 metafile = true
 
 [[files]]
@@ -15426,7 +15442,7 @@ metafile = true
 
 [[files]]
 file = "mods/neutron-tools.pw.toml"
-hash = "b23bf4a683918a16777156b8f66137065b77baeab0d8c37bac9d1dc37fcea7a7"
+hash = "54d529241f105ed40224ef40acd4e2381d9985b706ce8117f363268efdaed98c"
 metafile = true
 
 [[files]]

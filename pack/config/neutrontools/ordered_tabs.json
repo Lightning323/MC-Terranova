@@ -18,7 +18,6 @@
     "railways:main",
     "northstar:blocks",
     "northstar:items",
-    "northstar:tech",
     "createbigcannons:base",
     "simulated:main_tab",
     "create:palettes",
@@ -26,10 +25,6 @@
     "everycomp:everycomp",
     "cataclysm:cataclysm_item",
     "waystones:waystones",
-    "deeperdarker:deeper_darker",
-    "aether:functional_blocks",
-    "aether:building_blocks",
-    "aether:armor_and_accessories",
     "mcwroofs:mcwroofs"
   ]
 }

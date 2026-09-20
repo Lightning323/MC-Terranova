@@ -1,0 +1,19 @@
+{
+  "hidden_categories": [
+    "modmenu.nameTranslation.jade",
+    "jei.key.category.cheat.mode",
+    "jei.key.category.dev.tools",
+    "jei.key.category.edit.mode",
+    "quark.gui.keygroup.emote",
+    "key.curios.category",
+    "jei.key.category.hover.config.button",
+    "key.modernfix"
+  ],
+  "hidden_keybinds": [
+    "gui.xaero_minimap_settings",
+    "gui.xaero_open_settings",
+    "gui.xaero_world_map_server_settings"
+
+  ],
+  "disabled_keybinds": true
+}

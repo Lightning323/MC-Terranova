@@ -14,10 +14,14 @@
     "aether:dungeon_blocks",
     "aether:spawn_eggs",
     "aether:equipment_and_utilities",
+    "aether:building_blocks",
+    "aether:armor_and_accessories",
+    "deeperdarker:deeper_darker",
     "kubejs:tab",
     "catools:main",
     "numismatics:main",
     "aether:functional_blocks",
-    "aeroworks:main"
+    "aeroworks:main",
+    "northstar:tech"
   ]
 }
