@@ -9701,6 +9701,10 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/r
 hash = "c305618f16d02cf8a04faf89d7309776f273ceae335d26e369b244407bbd86c5"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/nether_heart.json"
+hash = "7ce56950231f67081bd6824b790f9b49a7c356a8f5605828269d10f6ac348b0f"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/pyrotide_shard.json"
 hash = "e25f8629207e1863c0933a4c6c9fa7f9892f8dd08a8bc7e7ea3c087c22b83233"
 
