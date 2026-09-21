@@ -15304,7 +15304,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-kinetic.pw.toml"
-hash = "baad446f4c128c70f4a27dc77fbf136416c1a6c9b5a5a0bb142190e680ed0c77"
+hash = "2fdbd59e76e735517d2240f361f8e44bd11e5b69e3c7442661c2dacb381583c2"
 metafile = true
 
 [[files]]
@@ -15419,7 +15419,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2a740b39e014011fa33d9e169a4ded38d68dd8da6f244a17a4df4fd38c865613"
+hash = "0ed46de75b8891a05c5fbfe3a140b0a980f81483d0d489acd8253c0b7cf108b7"
 metafile = true
 
 [[files]]
@@ -15454,7 +15454,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a5794d747743ac8800355f1ac570b40baaf0bb195ff57beb0c2d0176a0530b94"
+hash = "7bc20264f0874457c08927af84def007cd5ed2caeee9d736cab1f92d8ea8d6ec"
 metafile = true
 
 [[files]]
