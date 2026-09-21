@@ -9701,6 +9701,10 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/r
 hash = "415aac902741ad532b63514bef4aff98798747296282ebfd711a7b27acb43403"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/nether_heart.json"
+hash = "db0e59dcc8ea46d260851c177ad1c20aadd266a6ad3777aa4e81c627aab211d3"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/pyrotide_shard.json"
 hash = "e25f8629207e1863c0933a4c6c9fa7f9892f8dd08a8bc7e7ea3c087c22b83233"
 
@@ -15230,7 +15234,7 @@ metafile = true
 
 [[files]]
 file = "mods/astral-armoury.pw.toml"
-hash = "dc297a07e1bef2181150df5e818ce7e0732f380b16b032e89f162e7d79f55510"
+hash = "9baff8de52fe0524fce92f1c8a5ffc5b8b086542cc24f999123d6ac78ddc14c7"
 metafile = true
 
 [[files]]

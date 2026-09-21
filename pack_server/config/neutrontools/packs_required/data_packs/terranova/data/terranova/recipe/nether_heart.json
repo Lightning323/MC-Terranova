@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " M",
+    "MSM",
+    " M "
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:magma_block"
+    },
+    "S": {
+      "item": "terranova:monstrous_pearl"
+    }
+  },
+  "result": {
+    "id": "astral:nether_heart",
+    "count": 1
+  }
+}
