@@ -2,16 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    " M",
+    "ZMZ",
     "MSM",
-    " M "
+    "ZMZ"
   ],
   "key": {
-    "M": {
+    "Z": {
       "item": "minecraft:magma_block"
     },
+        "M": {
+      "item": "minecraft:nether_scrap"
+    },
     "S": {
-      "item": "terranova:monstrous_pearl"
+      "item": "terranova:monstrous_ingot"
     }
   },
   "result": {

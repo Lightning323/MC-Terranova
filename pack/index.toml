@@ -641,6 +641,10 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/aeronautics
 hash = "812357e84a85786b7b5b205006f401e7725ce999a7e3231f73a258f2bd7a92af"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/astral/recipe/nether_heart.json"
+hash = "e9568606fd341d5cd54cec80008b72df29b57754e94dd5196283759d2aa30dbc"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/create/recipe/copper_diving_helmet.json"
 hash = "441a5e295111a587946dec74a285a2919c69a2114a3ac23ae4528b33b1fe5157"
 
@@ -9695,14 +9699,6 @@ hash = "53c140dde86588da2ebf48870216c0fa2a405033defa35b88d1907f57a6f3526"
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/monstrous_dust2.json"
 hash = "c305618f16d02cf8a04faf89d7309776f273ceae335d26e369b244407bbd86c5"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/monstrous_pearl.json"
-hash = "415aac902741ad532b63514bef4aff98798747296282ebfd711a7b27acb43403"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/nether_heart.json"
-hash = "db0e59dcc8ea46d260851c177ad1c20aadd266a6ad3777aa4e81c627aab211d3"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/pyrotide_shard.json"
