@@ -602,7 +602,7 @@ hash = "a47f246102c12aa7e91b98a502abd535222d183d854d992ab490846d69a1f1b2"
 
 [[files]]
 file = "config/neutrontools/disabled_tabs.json"
-hash = "1e6f0c5788a1e4e784eb2b2e90866cfa276c9c405cf5aa923d218b37a755daf0"
+hash = "e9150a72e9d729debbbbf64f8947428e68ee6ddc2b2b16cad528fa3a5153d049"
 
 [[files]]
 file = "config/neutrontools/generated/block_list.txt"
@@ -626,7 +626,7 @@ hash = "5543113b1fca39583d4e5981e2e13354b00b0c8cc97cb6ebcae670b81c5c45c4"
 
 [[files]]
 file = "config/neutrontools/ordered_tabs.json"
-hash = "f1b32614ded4a162b6d4a78842a1e4b626d774196b1d503a3764a6fe4e08d161"
+hash = "53a8fd4b13818cb617d1cc647b44a75d538cc1207ce8513c95d3a3c27fa0251b"
 
 [[files]]
 file = "config/neutrontools/packs_optional/resource_packs/Deep Grass.zip"
@@ -14390,7 +14390,7 @@ hash = "86fe6c4eade83d73f1ed173511fe5aa1a10b822e8be874ae7140c1acd572dac4"
 
 [[files]]
 file = "config/neutrontools/tab_edits/space.json"
-hash = "1fb619c0ebb90a1e500b9d1d7aaaa7655e64d2b98e4a624663ca943de6b3f225"
+hash = "b81d3593b9daa2f314d0e0085154fe20367c38698f149942e902501ce9df0b2c"
 
 [[files]]
 file = "config/neutrontools/tab_items.json"

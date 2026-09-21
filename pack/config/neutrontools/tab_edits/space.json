@@ -1,21 +1,19 @@
 {
-  "northstar:blocks": {
+  "northstar:tech": {
     "tab_name_key": "space",
-    "items_to_add": [],
-    "items_to_remove": []
-  },
-  "northstar:items": {
-    "tab_name_key": "space_2",
     "items_to_add": [
       {
-        "after": "northstar:oxygen_bucket",
-        "match_tab": "northstar:tech"
+        "match_tab": "northstar:items"
       }
     ],
     "items_to_remove": []
   },
-  "northstar:tech": {
-    "tab_name_key": "space_3",
+  "northstar:items": {
+    "items_to_add": [],
+    "items_to_remove": []
+  },
+  "northstar:blocks": {
+    "tab_name_key": "space_2",
     "items_to_add": [],
     "items_to_remove": []
   }
