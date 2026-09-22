@@ -641,10 +641,6 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/aeronautics
 hash = "812357e84a85786b7b5b205006f401e7725ce999a7e3231f73a258f2bd7a92af"
 
 [[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/astral/recipe/nether_heart.json"
-hash = "e9568606fd341d5cd54cec80008b72df29b57754e94dd5196283759d2aa30dbc"
-
-[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/create/recipe/copper_diving_helmet.json"
 hash = "441a5e295111a587946dec74a285a2919c69a2114a3ac23ae4528b33b1fe5157"
 
@@ -9605,122 +9601,6 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/terralith/f
 hash = "2c1a8ed46ad46c439368a00480c1be36801c6858cd5c28524e2dc0271c048e8d"
 
 [[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/loot_modifiers/ender_dragon_drops.json"
-hash = "2ec0f879223fb2aeadc3ef25bf11fa3946c172ae6e56e50f716ece74a85ee285"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/loot_modifiers/ender_guardian.json"
-hash = "503b22394216b2a9047bc440a158c542b98a630090a2d7cbbe03bdad07e8b0bb"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/loot_modifiers/the_leviathan.json"
-hash = "736dafa0ec22907ba459151bfe7c5f68c767179ebe5e97f07cb60d3d40339bc9"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/loot_table/dragon_extra.json"
-hash = "a28bd5616ff2ac2e9f68b1e63c6d3da7d4edee76be5babd60206c83de3a9530f"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/loot_table/ender_guardian.json"
-hash = "154a7890ca5781258256c2d6703cc66413bfe0131a3d9091af691da336946c2a"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/loot_table/the_leviathan.json"
-hash = "58288481ea40d84a946a066e8cbd4c009af6181851dfa64ec4a794c8b906fb63"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/abyssal_dust.json"
-hash = "80b9e67896db7b35b9ccb2b254dccf4691438b84e609e63321b519ecabcf0602"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/abyssal_pearl.json"
-hash = "59df9b80b3a446360a87b15ae74ad41e407d781555c371a9f3e2df662674d387"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/ancient_dust.json"
-hash = "07c2ca13403e600f3a3cad00bec80e10d1ac67e004d3fc7065177078610fe4c4"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/ancient_pearl.json"
-hash = "df0653992eec61bafe0af2efd86ae62646c563efddf5385699aa4964b54b4e34"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/cursium_dust.json"
-hash = "e8ec73974d776aaf3e83c3ba07d41a60b5d1d0ba86791900d2557d81997bbded"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/cursium_dust2.json"
-hash = "c6f772f3ae1446ba5487b41e98eea243f085f22d6837a64769dfbdb60877cbc6"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/cursium_pearl.json"
-hash = "414b74032b3851cf4b25be308733a6b70d62d7322cca2f7ca0934552d856f1b7"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/cursium_pearl2.json"
-hash = "51e15c3a6c300f6aac6e802342ca1bd0a6d8fe0880741f082be721e31621deda"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/heat_tile.json"
-hash = "027623f2588e7aa73bdc284ac7b4fcfaec001090768e878f0e1edd85a60423da"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/hydronite_shard.json"
-hash = "1326335b869aa60c422ec3d0c2ff89f204a543c87e93081a57ddd032ce03cb89"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/ignitium_dust.json"
-hash = "899940a64d12e499bac1adb5465e3ee535fbb391535e1bf2c70e34642e7a93e5"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/ignitium_pearl.json"
-hash = "49cb45fa079a957e32cc158140fbb53d99f13492adc4f071cb4048bbe43d2631"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/ingot_harbinger.json"
-hash = "764f9f85178375ca2e86e7719558bbee19ca37ff4672cb362833f239c3579ce1"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/ingot_ignitium.json"
-hash = "674e783bce3ee1114648a14bff1cfb35dbef7c82f87b5598a605d09d35ed2826"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/ingot_leviathan.json"
-hash = "69d359c22c16706b9fc42e2629077e66b15b610e8e381af2d5205e10cac3a3f8"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/ingot_void.json"
-hash = "48d0666af056b85bbd48c37cfe6bae409c279433cb440c1faa583e156775c5c8"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/monstrous_dust.json"
-hash = "53c140dde86588da2ebf48870216c0fa2a405033defa35b88d1907f57a6f3526"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/monstrous_dust2.json"
-hash = "c305618f16d02cf8a04faf89d7309776f273ceae335d26e369b244407bbd86c5"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/nether_heart.json"
-hash = "7ce56950231f67081bd6824b790f9b49a7c356a8f5605828269d10f6ac348b0f"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/pyrotide_shard.json"
-hash = "e25f8629207e1863c0933a4c6c9fa7f9892f8dd08a8bc7e7ea3c087c22b83233"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/void_core_dust.json"
-hash = "a86f9348a15aa43ff410611ea0f4544d207781a9713b85fc2803a2bb7991f2ad"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/void_pearl.json"
-hash = "773229d04007384df584ea489dc76f8d7f359b197c27932c6b94932777c98ba8"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/witherite_dust.json"
-hash = "a03dfa1bde9852a5e4176fbf2252eb35682300b588ff28b6fb86302bf95ff4c8"
-
-[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/amber_portstone.json"
 hash = "d4e2cce2d4780ee89e61569cd02939f08f8c22cb4f83c66a714ac8737a069e20"
 
@@ -15381,7 +15261,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "9443e2e10833fef220311447b5e21d161f2e4d76bb07c77d28e2dc2fa8e42cd6"
+hash = "7411c38665af0ee0b17613ac80daaa040a5f59b046d418421297acf2c6fa8c9c"
 metafile = true
 
 [[files]]
@@ -15531,7 +15411,7 @@ metafile = true
 
 [[files]]
 file = "mods/terranova-1.0.0.jar"
-hash = "86f908d57b6a5811025ea094a632820a307a132b67cbac8ece90c77143962ddc"
+hash = "4ecc65184caf3261ce9c42435d1bf8cec3cf21954d9269333b62b2c7ae74710a"
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
