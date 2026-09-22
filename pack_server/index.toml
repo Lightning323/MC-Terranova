@@ -15438,7 +15438,7 @@ metafile = true
 
 [[files]]
 file = "mods/terranova-1.0.0.jar"
-hash = "4ecc65184caf3261ce9c42435d1bf8cec3cf21954d9269333b62b2c7ae74710a"
+hash = "6c7c9b71e3b37ad6a444dae2d24b7debc426a7b82ca2985befb5840e8fab6e11"
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
