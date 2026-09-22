@@ -11,6 +11,9 @@
           "terranova:worldedit_wand",
           "terranova:worldedit_nav"
         ]
+      },
+      {
+        "match_name": ".*:creative.*"
       }
     ],
     "items_to_remove": [
