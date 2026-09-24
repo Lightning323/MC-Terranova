@@ -15114,7 +15114,7 @@ metafile = true
 
 [[files]]
 file = "mods/astral-armoury.pw.toml"
-hash = "9baff8de52fe0524fce92f1c8a5ffc5b8b086542cc24f999123d6ac78ddc14c7"
+hash = "b2e8c4ed11a3c294b08ddc33e9ba5ba7546ac78e8efd57280c06107ca480c389"
 metafile = true
 
 [[files]]
@@ -15213,7 +15213,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "36ba6ade58f4c13c623743ee4b18e92a56355d3014e6c05fb6d7183d13fb9d83"
+hash = "7958205a9ca2cb5b78c5347c94ef4934291b9fdb369aa31561af6ee2fb4bd0bb"
 metafile = true
 
 [[files]]
@@ -15303,7 +15303,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0ed46de75b8891a05c5fbfe3a140b0a980f81483d0d489acd8253c0b7cf108b7"
+hash = "4727f9eca761440a318177abe0916e5d1cbff3bdaa0ad5904be3a2b00bc44049"
 metafile = true
 
 [[files]]
@@ -15363,7 +15363,7 @@ metafile = true
 
 [[files]]
 file = "mods/northstar-redux.pw.toml"
-hash = "346c1c1da99ce9376735bf8b4d55e160b24ad2935e23b066c2900770c4181e11"
+hash = "99a253829321625f67fdd2cacee857c4c4569c9a6a14e7adb0eed6ca7ea02dd3"
 metafile = true
 
 [[files]]

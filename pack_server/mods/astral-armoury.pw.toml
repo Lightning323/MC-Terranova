@@ -1,13 +1,13 @@
 name = "Astral Armoury"
-filename = "astral-0.2.0.jar"
+filename = "astral-0.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EBk3WIoF/versions/6DGWqXgA/astral-0.2.0.jar"
+url = "https://cdn.modrinth.com/data/EBk3WIoF/versions/jmupSrty/astral-0.3.0.jar"
 hash-format = "sha512"
-hash = "d60adc37b2a16aaa09b19a7d73b85aa5e63d278d451a828e77a4676812741dad869768b2337b580c72ee644e9ac1a3a53b164c89a965f881c7f539c7f8e3952f"
+hash = "225029c0b99f14ed209b156b7ce37b7f4b4ee0e0f20d6945bd9848fad1afd12aa523716a201dcd241378f549d58a7926bcb4a54d5835077d08bdc15b8a2ceb19"
 
 [update]
 [update.modrinth]
 mod-id = "EBk3WIoF"
-version = "6DGWqXgA"
+version = "jmupSrty"
