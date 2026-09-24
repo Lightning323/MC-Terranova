@@ -3,11 +3,11 @@ filename = "astral-0.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EBk3WIoF/versions/jmupSrty/astral-0.3.0.jar"
+url = "https://cdn.modrinth.com/data/EBk3WIoF/versions/tvS0oa7y/astral-0.3.0.jar"
 hash-format = "sha512"
-hash = "225029c0b99f14ed209b156b7ce37b7f4b4ee0e0f20d6945bd9848fad1afd12aa523716a201dcd241378f549d58a7926bcb4a54d5835077d08bdc15b8a2ceb19"
+hash = "c48befe26703da5ff4f20f9df3aa92d7de247e32b0a6a144138408fa806f04fe5be2b4309e000172182a88505a78e113aaff973da53ed6f5d2935120c1c397c0"
 
 [update]
 [update.modrinth]
 mod-id = "EBk3WIoF"
-version = "jmupSrty"
+version = "tvS0oa7y"
