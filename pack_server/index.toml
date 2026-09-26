@@ -15236,6 +15236,11 @@ hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "6d3e312dbf8db12dd1b6fb3bd1d29f210ab48024a0b2ebdf02fd32c265955c5d"
+metafile = true
+
+[[files]]
 file = "mods/dye-depot.pw.toml"
 hash = "3f2b8acea20b5966d65a0ac9509fa31d346c08d86e71bd597e1911a71814462c"
 metafile = true

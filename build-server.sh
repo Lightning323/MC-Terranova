@@ -26,6 +26,9 @@ packwiz curseforge add leaky -y
 #For disabling certain mobs (optional)
 packwiz modrinth add in-control -y
 
+#Distant horizons
+packwiz modrinth add distanthorizons
+
 # remove mods that would crash the server
 rm ./mods/fastquit-forge.pw.toml
 rm ./mods/sodium.pw.toml
