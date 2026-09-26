@@ -622,7 +622,7 @@ hash = "5a309afd976f79ebb055926c2a239d16442e893f5fae9eac5078345926258fe7"
 
 [[files]]
 file = "config/neutrontools/neutron-tools-config.toml"
-hash = "5543113b1fca39583d4e5981e2e13354b00b0c8cc97cb6ebcae670b81c5c45c4"
+hash = "6eefcbc14adab4a2fd564f22c3b85901dd646ffc14b319e59d4147e85046a389"
 
 [[files]]
 file = "config/neutrontools/ordered_tabs.json"
