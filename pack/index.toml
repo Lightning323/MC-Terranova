@@ -645,6 +645,10 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/create/reci
 hash = "441a5e295111a587946dec74a285a2919c69a2114a3ac23ae4528b33b1fe5157"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/create/recipe/swet_slime.json"
+hash = "fdf23ded23433f64b8cb87fe4885427efb3ce89594251e53f9f4dbf6f9b42749"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/create/recipe/swetglue.json"
 hash = "181cdd36a52c53272c5228fb6f4ef938e1e279132f0115323569c0a9fdcef3ed"
 
