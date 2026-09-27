@@ -15127,7 +15127,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
+hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
 
 [[files]]
@@ -15196,7 +15196,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-kinetic.pw.toml"
-hash = "2fdbd59e76e735517d2240f361f8e44bd11e5b69e3c7442661c2dacb381583c2"
+hash = "43e4e22a172bfc82188a3dde2f3c448bcd2446ab1c7d217491ee01a6e2e0dbd4"
 metafile = true
 
 [[files]]
@@ -15221,7 +15221,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "7958205a9ca2cb5b78c5347c94ef4934291b9fdb369aa31561af6ee2fb4bd0bb"
+hash = "95ad690c28da310450f8b32878a9ca1a0d997a072b6da3f22153b21688d9069a"
 metafile = true
 
 [[files]]
@@ -15316,7 +15316,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4727f9eca761440a318177abe0916e5d1cbff3bdaa0ad5904be3a2b00bc44049"
+hash = "fb3233553d7a88373fcd54e6fbeac1f593fdfbe44f00e0c24790a01774545e2f"
 metafile = true
 
 [[files]]
@@ -15351,7 +15351,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7bc20264f0874457c08927af84def007cd5ed2caeee9d736cab1f92d8ea8d6ec"
+hash = "dda27add4d2cfc241d52a6825e016712d704c0b9925ab2ccbf779e8493f752ed"
 metafile = true
 
 [[files]]
@@ -15460,7 +15460,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "763e2b15b3ffc404a7cfa770fa63d1928d8c18bbca8325a7ca09c6a8a0f87b98"
+hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
 metafile = true
 
 [[files]]
