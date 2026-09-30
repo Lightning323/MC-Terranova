@@ -430,7 +430,7 @@ hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
 [[files]]
 file = "config/jade/hide-entities.json"
-hash = "72f9dda8a515515b41ad4f2816310f3c9d7e01d66fbbdb7662ad1ce67d04196d"
+hash = "458193263988d199ac5ffe8183cf7064de626c5d909684842742ff6f5781036f"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -14322,7 +14322,7 @@ hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "069c182a964c732757d361a8e9025e64714b88bf1e143f74e811b7429723a84c"
+hash = "b053c6d80950c34da8dc5f0eafc1872837ada0da9dcc8de3cc5b3ba230b66eff"
 
 [[files]]
 file = "config/railways-client.toml"
