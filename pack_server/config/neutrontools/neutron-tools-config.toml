@@ -2,7 +2,7 @@
 	verbose_mode = false
 	loadBaseDatapackDirectory = true
 	crash_commands = false
-	hunger_multiplier = 0.25
+	hunger_multiplier = 0.15
 	disable_experemental_settings_popup = true
 
 [client]

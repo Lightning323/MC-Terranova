@@ -622,7 +622,7 @@ hash = "5a309afd976f79ebb055926c2a239d16442e893f5fae9eac5078345926258fe7"
 
 [[files]]
 file = "config/neutrontools/neutron-tools-config.toml"
-hash = "6eefcbc14adab4a2fd564f22c3b85901dd646ffc14b319e59d4147e85046a389"
+hash = "486ef4e2c9acd7f71aed6202ad811e312d9d2262f3bd42968f260aeae8da34f6"
 
 [[files]]
 file = "config/neutrontools/ordered_tabs.json"
@@ -879,6 +879,10 @@ hash = "ab8c9f25e2693dfaccdeb09d36a438d7bd0d8f00b5b2c691d7a41cad82f85aef"
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/mcwroofs/recipe/rain_gutter.json"
 hash = "ab8c9f25e2693dfaccdeb09d36a438d7bd0d8f00b5b2c691d7a41cad82f85aef"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/minecraft/recipe/bundle.json"
+hash = "a6ed5e7206b0eb346021d66825d96714ee9776792f7451653cfe4d765315db28"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/minecraft/recipe/lodestone.json"
@@ -14270,7 +14274,7 @@ hash = "16b5ad05fe269e93118efc5ff38cde31f5f17830f2ea2ba2f7feb781edce8f1a"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft.json"
-hash = "c9066b5fb5936460404a25922ffcc57a2e994bf8ada2c96960933f7af5a6e2cc"
+hash = "78606cbb4dbabc7d83ac170541be36dd6d9a3d6817a3abe9c541faa05198ab94"
 
 [[files]]
 file = "config/neutrontools/tab_edits/op.json"
