@@ -1,11 +1,29 @@
 {
-  "__comment": "This is an ignore list for the target of Jade. You can add registry ids to the \"values\" list.",
+  "__comment": "This is an ignore list for the target of Jade. Filtered to show only mobs/entities with health, excluding items, displays, and Create contraptions.",
   "values": [
     "area_effect_cloud",
+    "arrow",
+    "boat",
+    "chest_boat",
+    "item",
+    "item_frame",
+    "glow_item_frame",
     "firework_rocket",
     "interaction",
     "text_display",
+    "block_display",
+    "item_display",
     "lightning_bolt",
-    "item"
+    "marker",
+    "painting",
+    "tnt",
+    "minecart",
+    "chest_minecart",
+    "furnace_minecart",
+    "hopper_minecart",
+    "tnt_minecart",
+    "spawner_minecart",
+    "create:contraption",
+    "contraption"
   ]
 }

@@ -430,7 +430,7 @@ hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
 [[files]]
 file = "config/jade/hide-entities.json"
-hash = "59c0765f750a04f7bea89c961276235ead3f32ca78bd9d0b84a9e6b4847494e0"
+hash = "72f9dda8a515515b41ad4f2816310f3c9d7e01d66fbbdb7662ad1ce67d04196d"
 
 [[files]]
 file = "config/jade/jade.json"
