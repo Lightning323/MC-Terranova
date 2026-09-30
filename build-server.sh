@@ -18,7 +18,7 @@ packwiz curseforge add zfastnoise -y
 
 #networking
 packwiz curseforge add https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save -y
-packwiz curseforge add https://www.curseforge.com/minecraft/mc-mods/connectivity -y
+#packwiz curseforge add https://www.curseforge.com/minecraft/mc-mods/connectivity -y
 
 #item stack lag
 packwiz curseforge add leaky -y
