@@ -14290,7 +14290,7 @@ hash = "17fed8f1377844edceb88e5b241367ec878da30e4c10ef36581f925812345f81"
 
 [[files]]
 file = "config/neutrontools/unbreakable_items.json"
-hash = "fdbcb1ec108fec98e8e37d8004e1bf62e1bf716967a644881dac076b721b26e9"
+hash = "4bff8ff95868bc70dc6db2b171940997524b9af97307df36c53cc6bd853f6aaa"
 
 [[files]]
 file = "config/northstar-client.toml"

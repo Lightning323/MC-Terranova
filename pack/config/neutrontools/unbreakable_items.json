@@ -56,6 +56,7 @@
         "cataclysm:void_assault_shoulder_weapon",
         "cataclysm:wither_assault_shoulder_weapon",
         "cataclysm:brontes",
-        "cataclysm:monstrous_helm"
+        "cataclysm:monstrous_helm",
+        "waystones:warp_stone"
     ]
 }
