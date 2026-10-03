@@ -1,6 +1,5 @@
 {
-  "type": "create:mechanical_crafting",
-  "accept_mirrored": false,
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
     "A": {
@@ -14,9 +13,9 @@
     }
   },
   "pattern": [
-    "PPPPP",
-    "AASAA",
-    "PPPPP"
+    "PPP",
+    "ASA",
+    "PPP"
   ],
   "result": {
     "count": 2,

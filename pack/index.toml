@@ -9650,7 +9650,7 @@ hash = "49596ac9c6e730eabe01be4d6b7cda0f65221e62c35c76f6cdd2e59e722b5faf"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/blank_scroll.json"
-hash = "93f8a02ded58cc3775b6051e28a5a8c35f753c47d080c212113234000d587a99"
+hash = "5fccb63c4654ae5953fb6f37644f2a38721ca8a6cb50955a5b1ea3b845491d76"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/blue_portstone.json"
@@ -9789,10 +9789,6 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/r
 hash = "e168e4dfe21e2ad2bb096df818dccb986c22c6f574e72f9b34fd0a6386aafe8c"
 
 [[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/mossy_waystone.json"
-hash = "9a8b88b59a1eed50aee6248d3ee91cfb0ea9f3b7dac5072b2e51bb86a2746b54"
-
-[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/mud_bricks_waystone.json"
 hash = "970209ff95e548b7abb7c779d31bbbc40342831df1bab3c6a30d0520f365ab2a"
 
@@ -9901,12 +9897,8 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/r
 hash = "5f8d412b64516ea79c6501e3db68898bdbff739edfd6a241d533b5ef66b1952c"
 
 [[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/warp_dust.json"
-hash = "24b4565e8ca2d688c557d05a4447c53c59a49f7b08bb113ea3357db902bef877"
-
-[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/warp_plate.json"
-hash = "cb16fd14da7d8f96e9035d78aabf89338095b6c2439ae2420abcd53cfaa7d1c5"
+hash = "4386ac4abab2b9feba0f89a5d7f6f57ead9cd6506da69e5e8a48578e97325b03"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/warp_scroll.json"
