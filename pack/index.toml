@@ -9789,6 +9789,10 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/r
 hash = "e168e4dfe21e2ad2bb096df818dccb986c22c6f574e72f9b34fd0a6386aafe8c"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/mossy_waystone.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/mud_bricks_waystone.json"
 hash = "970209ff95e548b7abb7c779d31bbbc40342831df1bab3c6a30d0520f365ab2a"
 
