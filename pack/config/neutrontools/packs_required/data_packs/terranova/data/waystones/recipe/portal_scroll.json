@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "S": {
+      "item": "waystones:blank_scroll"
+    }
+  },
+  "pattern": [
+    " B ",
+    " S ",
+    " P "
+  ],
+  "result": {
+    "count": 1,
+    "id": "waystones:portal_scroll"
+  }
+}

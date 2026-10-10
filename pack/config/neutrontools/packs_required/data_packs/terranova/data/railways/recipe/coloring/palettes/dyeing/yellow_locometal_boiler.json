@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:yellow",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/boiler"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:yellow_locometal_boiler"
+    }
+  ]
+}

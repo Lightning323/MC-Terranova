@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:teal",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/flywheel"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:turquoise_locometal_flywheel"
+    }
+  ]
+}

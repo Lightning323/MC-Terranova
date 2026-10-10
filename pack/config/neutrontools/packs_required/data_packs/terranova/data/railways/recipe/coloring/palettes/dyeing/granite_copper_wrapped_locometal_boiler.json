@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:tan",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/copper_wrapped_boiler"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:granite_copper_wrapped_locometal_boiler"
+    }
+  ]
+}

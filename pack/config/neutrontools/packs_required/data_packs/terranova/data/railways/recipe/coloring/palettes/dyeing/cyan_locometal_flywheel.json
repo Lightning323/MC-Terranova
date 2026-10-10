@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:cyan",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/flywheel"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:cyan_locometal_flywheel"
+    }
+  ]
+}

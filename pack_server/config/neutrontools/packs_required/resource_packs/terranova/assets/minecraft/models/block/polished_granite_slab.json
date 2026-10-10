@@ -1,0 +1,113 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "side": "fusion_connected_blocks:block/connecting_polished_granite",
+    "bottom": "fusion_connected_blocks:block/connecting_polished_granite",
+    "top": "fusion_connected_blocks:block/connecting_polished_granite"
+  },
+  "connections": {
+    "side": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "and",
+          "predicates": [
+            {
+              "type": "is_direction",
+              "directions": ["left", "right"]
+            },
+            {
+              "type": "or",
+              "predicates": [
+                {
+                  "type": "match_state",
+                  "block": "minecraft:polished_granite_slab",
+                  "properties": {
+                    "type": "bottom"
+                  }
+                },
+                {
+                  "type": "match_state",
+                  "block": "minecraft:polished_granite_stairs",
+                  "properties": {
+                    "half": "bottom"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "predicates": [
+            {
+              "type": "is_direction",
+              "directions": ["bottom_left", "bottom", "bottom_right"]
+            },
+            {
+              "type": "or",
+              "predicates": [
+                {
+                  "type": "match_block",
+                  "block": "minecraft:polished_granite"
+                },
+                {
+                  "type": "match_block",
+                  "block": "minecraft:polished_granite_stairs"
+                },
+                {
+                  "type": "match_state",
+                  "block": "minecraft:polished_granite_slab",
+                  "properties": {
+                    "type": ["top", "double"]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "bottom": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_granite"
+        },
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_granite_stairs"
+        },
+        {
+          "type": "match_state",
+          "block": "minecraft:polished_granite_slab",
+          "properties": {
+            "type": ["bottom", "double"]
+          }
+        }
+      ]
+    },
+    "top": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "match_state",
+          "block": "minecraft:polished_granite_stairs",
+          "properties": {
+            "half": "bottom"
+          }
+        },
+        {
+          "type": "match_state",
+          "block": "minecraft:polished_granite_slab",
+          "properties": {
+            "type": "bottom"
+          }
+        }
+      ]
+    }
+  }
+}

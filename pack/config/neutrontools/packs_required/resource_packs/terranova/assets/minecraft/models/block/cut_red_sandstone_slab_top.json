@@ -1,0 +1,56 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "minecraft:block/red_sandstone_top",
+    "side": "fusion_connected_blocks:block/connecting_cut_red_sandstone",
+    "top": "minecraft:block/red_sandstone_top"
+  },
+  "connections": {
+    "type": "or",
+    "predicates": [
+      {
+        "type": "and",
+        "predicates": [
+          {
+            "type": "is_direction",
+            "directions": ["left", "right"]
+          },
+          {
+            "type": "match_state",
+            "block": "minecraft:cut_red_sandstone_slab",
+            "properties": {
+              "type": "top"
+            }
+          }
+        ]
+      },
+      {
+        "type": "and",
+        "predicates": [
+          {
+            "type": "is_direction",
+            "directions": ["top_left", "top", "top_right"]
+          },
+          {
+            "type": "or",
+            "predicates": [
+              {
+                "type": "match_block",
+                "block": "minecraft:cut_red_sandstone"
+              },
+              {
+                "type": "match_state",
+                "block": "minecraft:cut_red_sandstone_slab",
+                "properties": {
+                  "type": ["bottom", "double"]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:yellow",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/sliding_door"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:yellow_sliding_locometal_door"
+    }
+  ]
+}

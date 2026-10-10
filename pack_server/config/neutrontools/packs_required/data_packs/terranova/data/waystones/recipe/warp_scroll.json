@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:compass"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "waystones:blank_scroll"
+    }
+  },
+  "pattern": [
+    " C ",
+    " S ",
+    " G "
+  ],
+  "result": {
+    "count": 1,
+    "id": "waystones:warp_scroll"
+  }
+}

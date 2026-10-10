@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:tan",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/iron_wrapped_slashed"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:dripstone_iron_wrapped_locometal"
+    }
+  ]
+}

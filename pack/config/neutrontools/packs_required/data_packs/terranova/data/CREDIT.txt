@@ -1,0 +1,6 @@
+CREDIT
+
+Physics compat from Sable Physics Compat mod:
+    https://www.curseforge.com/minecraft/mc-mods/sable-physics-compat
+    /sable
+    /aeronautics

@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:lime",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/plated"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:lime_plated_locometal"
+    }
+  ]
+}

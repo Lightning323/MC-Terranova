@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:black",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/smokebox"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:black_locometal_smokebox"
+    }
+  ]
+}

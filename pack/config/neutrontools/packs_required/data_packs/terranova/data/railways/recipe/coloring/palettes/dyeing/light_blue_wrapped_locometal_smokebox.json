@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:light_blue",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/brass_wrapped_smokebox"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:light_blue_wrapped_locometal_smokebox"
+    }
+  ]
+}

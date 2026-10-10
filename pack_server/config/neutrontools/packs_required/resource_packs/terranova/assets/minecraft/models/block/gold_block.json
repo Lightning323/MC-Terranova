@@ -1,0 +1,8 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fusion_connected_blocks:block/connecting_gold_block"
+  }
+}

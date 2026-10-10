@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:orange",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/pillar"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:orange_locometal_pillar"
+    }
+  ]
+}

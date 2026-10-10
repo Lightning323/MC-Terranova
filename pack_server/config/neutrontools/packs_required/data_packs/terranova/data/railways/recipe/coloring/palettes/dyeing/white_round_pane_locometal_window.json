@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:white",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/round_pane_window"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:white_round_pane_locometal_window"
+    }
+  ]
+}

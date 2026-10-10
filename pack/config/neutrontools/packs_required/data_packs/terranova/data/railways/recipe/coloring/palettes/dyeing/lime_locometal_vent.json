@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:lime",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/vent"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:lime_locometal_vent"
+    }
+  ]
+}

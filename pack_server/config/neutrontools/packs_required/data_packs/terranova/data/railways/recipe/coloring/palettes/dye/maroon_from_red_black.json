@@ -1,0 +1,16 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:black",
+  "ingredients": [],
+  "results": [
+    {
+      "amount": 250,
+      "components": {
+        "minecraft:custom_data": {
+          "Color": "maroon"
+        }
+      },
+      "id": "railways:paint"
+    }
+  ]
+}

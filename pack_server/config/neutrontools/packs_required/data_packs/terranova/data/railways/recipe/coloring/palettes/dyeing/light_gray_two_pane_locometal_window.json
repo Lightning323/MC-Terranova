@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:light_gray",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/two_pane_window"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:light_gray_two_pane_locometal_window"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:limestone",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/end_ladder"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:limestone_locometal_end_ladder"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/polished_diorite_stairs_inner",
+  "textures": {
+    "side": "fusion_connected_blocks:block/connecting_polished_diorite",
+    "bottom": "fusion_connected_blocks:block/connecting_polished_diorite",
+    "top": "fusion_connected_blocks:block/connecting_polished_diorite"
+  },
+  "connections": {
+    "side": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_diorite"
+        },
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_diorite_stairs"
+        },
+        {
+          "type": "match_state",
+          "block": "minecraft:polished_diorite_slab",
+          "properties": {
+            "type": ["bottom", "double"]
+          }
+        },
+        {
+          "type": "and",
+          "predicates": [
+            {
+              "type": "is_direction",
+              "directions": ["bottom_left", "bottom", "bottom_right"]
+            },
+            {
+              "type": "match_state",
+              "block": "minecraft:polished_diorite_slab",
+              "properties": {
+                "type": "top"
+              }
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "predicates": [
+            {
+              "type": "is_direction",
+              "directions": ["top_left", "top", "top_right"]
+            },
+            {
+              "type": "match_state",
+              "block": "minecraft:polished_diorite_slab",
+              "properties": {
+                "type": "bottom"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "bottom": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_diorite"
+        },
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_diorite_stairs"
+        },
+        {
+          "type": "match_state",
+          "block": "minecraft:polished_diorite_slab",
+          "properties": {
+            "type": ["bottom", "double"]
+          }
+        }
+      ]
+    },
+    "top": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_diorite"
+        },
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_diorite_stairs"
+        },
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_diorite_slab"
+        }
+      ]
+    }
+  }
+}

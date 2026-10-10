@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:yellow",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/plated"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:yellow_plated_locometal"
+    }
+  ]
+}

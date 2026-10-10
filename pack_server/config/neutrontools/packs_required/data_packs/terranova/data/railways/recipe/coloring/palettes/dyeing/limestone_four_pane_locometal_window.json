@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:limestone",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/four_pane_window"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:limestone_four_pane_locometal_window"
+    }
+  ]
+}

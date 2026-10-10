@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:scorchia",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/copper_wrapped_slashed"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:scorchia_copper_wrapped_locometal"
+    }
+  ]
+}

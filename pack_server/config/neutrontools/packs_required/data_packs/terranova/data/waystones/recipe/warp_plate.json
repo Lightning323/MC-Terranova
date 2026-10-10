@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:lodestone"
+    },
+    "P": {
+      "tag": "minecraft:stone_bricks"
+    },
+    "S": {
+      "item": "terranova:void_pearl"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "ASA",
+    "PPP"
+  ],
+  "result": {
+    "count": 2,
+    "id": "waystones:warp_plate"
+  },
+  "show_notification": false
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:cyan",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/hazard_stripes_chevron_white"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:cyan_hazard_stripes_chevron_on_white"
+    }
+  ]
+}

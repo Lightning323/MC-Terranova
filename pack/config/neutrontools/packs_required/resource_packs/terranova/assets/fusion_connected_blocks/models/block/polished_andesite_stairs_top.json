@@ -1,0 +1,101 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/polished_andesite_stairs",
+  "textures": {
+    "side": "fusion_connected_blocks:block/connecting_polished_andesite",
+    "bottom": "fusion_connected_blocks:block/connecting_polished_andesite",
+    "top": "fusion_connected_blocks:block/connecting_polished_andesite"
+  },
+  "connections": {
+    "side": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_andesite"
+        },
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_andesite_stairs"
+        },
+        {
+          "type": "match_state",
+          "block": "minecraft:polished_andesite_slab",
+          "properties": {
+            "type": ["top", "double"]
+          }
+        },
+        {
+          "type": "and",
+          "predicates": [
+            {
+              "type": "is_direction",
+              "directions": ["bottom_left", "bottom", "bottom_right"]
+            },
+            {
+              "type": "match_state",
+              "block": "minecraft:polished_andesite_slab",
+              "properties": {
+                "type": "top"
+              }
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "predicates": [
+            {
+              "type": "is_direction",
+              "directions": ["top_left", "top", "top_right"]
+            },
+            {
+              "type": "match_state",
+              "block": "minecraft:polished_andesite_slab",
+              "properties": {
+                "type": "bottom"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "bottom": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_andesite"
+        },
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_andesite_stairs"
+        },
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_andesite_slab"
+        }
+      ]
+    },
+    "top": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_andesite"
+        },
+        {
+          "type": "match_block",
+          "block": "minecraft:polished_andesite_stairs"
+        },
+        {
+          "type": "match_state",
+          "block": "minecraft:polished_andesite_slab",
+          "properties": {
+            "type": ["top", "double"]
+          }
+        }
+      ]
+    }
+  }
+}

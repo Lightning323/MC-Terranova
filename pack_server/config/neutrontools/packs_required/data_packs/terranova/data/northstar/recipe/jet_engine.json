@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "northstar:rocket_combustion_chamber"
+    },
+    "I": {
+      "item": "terranova:heat_tile"
+    },
+    "P": {
+      "item": "create:propeller"
+    }
+  },
+  "pattern": [
+    "ICI",
+    "IPI",
+    "I I"
+  ],
+  "result": {
+    "count": 8,
+    "id": "northstar:jet_engine"
+  }
+}

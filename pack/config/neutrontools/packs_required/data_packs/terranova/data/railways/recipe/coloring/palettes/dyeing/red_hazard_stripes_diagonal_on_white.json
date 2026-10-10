@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:red",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/hazard_stripes_diagonal_white"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:red_hazard_stripes_diagonal_on_white"
+    }
+  ]
+}

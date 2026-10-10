@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:orange",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/two_pane_window"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:orange_two_pane_locometal_window"
+    }
+  ]
+}

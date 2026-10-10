@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:white",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/slashed"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:white_slashed_locometal"
+    }
+  ]
+}

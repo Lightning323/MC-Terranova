@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:pink",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/hinged_door"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:pink_hinged_locometal_door"
+    }
+  ]
+}

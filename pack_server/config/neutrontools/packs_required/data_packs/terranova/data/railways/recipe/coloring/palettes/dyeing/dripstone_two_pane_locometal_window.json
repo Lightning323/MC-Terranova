@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "dye_depot:tan",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/two_pane_window"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:dripstone_two_pane_locometal_window"
+    }
+  ]
+}

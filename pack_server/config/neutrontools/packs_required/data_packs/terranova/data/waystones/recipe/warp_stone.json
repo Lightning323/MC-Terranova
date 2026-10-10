@@ -1,0 +1,19 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "key": {
+    "C": { "item": "terranova:hydronite_shard" },
+    "Y": { "item": "terranova:abyssal_ingot" },
+    "X": { "item": "terranova:void_pearl" }
+  },
+  "pattern": [
+    " CCC ", 
+    "CCYCC", 
+    "CYXYC", 
+    "CCYCC", 
+    " CCC "],
+  "result": {
+    "count": 1,
+    "id": "waystones:warp_stone"
+  }
+}

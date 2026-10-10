@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:coloring",
+  "color": "minecraft:pink",
+  "ingredients": [
+    {
+      "tag": "railways:palettes/dye_groups/sliding_door"
+    }
+  ],
+  "results": [
+    {
+      "id": "railways:pink_sliding_locometal_door"
+    }
+  ]
+}
