@@ -1,7 +1,0 @@
-{
-  "selector": "#sable:float_8",
-  "properties": {
-    "sable:floating_material": "sable:end_stone",
-    "sable:floating_scale": 4.0
-  }
-}

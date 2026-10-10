@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "enderitemod:enderite_shulker_box", "required": false },
-    { "id": "ironfurnaces:million_furnace", "required": false }
-  ]
-}

@@ -1,7 +1,0 @@
-{
-  "selector": "#sable:float_05",
-  "properties": {
-    "sable:floating_material": "sable:selflift",
-    "sable:floating_scale": 0.25
-  }
-}
