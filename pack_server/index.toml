@@ -13157,6 +13157,386 @@ file = "config/neutrontools/packs_required/resource_packs/terranova/assets/minec
 hash = "a6b7d04d3f65051311529e1ab7501bde9750b550054fd9498ad97755127fce7e"
 
 [[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/advanced_circuit.png"
+hash = "c6ba528e33f2908c29029f6f06e05d33a7eccc3d9f148ecf2464d8aabd9a73d4"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/astronomical_reading.png"
+hash = "12517dd5f4b19ed2acfa3c2d05e0148c8c423dbd66bfeaf507386d9335a6e5c4"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/biofuel_bucket.png"
+hash = "0ee6034c1e70276236185951f57d58682c1e506f3968bca8f761468c991cff33"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/brass_piston.png"
+hash = "a8bada4bc195ffda1a2e64743129b99ca015786b163ee70860e13e0a83e9cc43"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/brine_bucket.png"
+hash = "ae79a4058b1c8a946462fb808d7dc335d07fecf3a8f2551b81ca1f445c6177e2"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/broken_iron_space_suit_boots.png"
+hash = "0109b2080052a6dfd35f2a98e35e68fcc77398c56248bb0936ea752bd3dd20c9"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/broken_iron_space_suit_chestpiece.png"
+hash = "9c7c53682b6e4bd675cffa0f8c3997ddb1709322890bfb117fba3de781cf8217"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/broken_iron_space_suit_helmet.png"
+hash = "e87e3f0c8ae5a648d11ede0c74354b6452f8e45444f980fdc8aab359713ed761"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/broken_iron_space_suit_leggings.png"
+hash = "6fb4d285d701e4c452126db0e4f92c591878a2d6a188ac9406428e5c2bd0e689"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/carbon_bucket.png"
+hash = "61b895ccebd0f8fc3223f295c385421abba5db18b2d7f962c5ce4ff45b8634ae"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/carbon_concentrate.png"
+hash = "e7a04fdf3c8f9b44d4c6847500b390120b1f5a3e8f0d8b44eb8ea6d69794faaa"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/chlorine_bucket.png"
+hash = "6b7eb940f41d3e61fd7c3f47e1bc78111ebd96f671f3f0306dca10648f653e00"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/chocolate_ice_cream_bucket.png"
+hash = "faad581c0c9bcfbdb819f014f79fd7c318cd2f4c754ed2d68fc428ccfea0a581"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/circuit.png"
+hash = "b72c3bdfb5d6ee6f744c1eea099e6d0ef87e07dfeb015826f4a0f83782e9048a"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/combustion_chamber.png"
+hash = "4fce7fb3d42abd83cbe1d545ed043fb9f1677f2948163fbac2abb0b9db36cb38"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/combustion_chamber_hard.png"
+hash = "136b8a4f266fcc1cbcef07e6f2a17c2c19c52317da7107c7e663574828bd99bf"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/crushed_raw_tungsten.png"
+hash = "a7ab6fe427af078455a7134543c50f45347c4cc2c7be2eaab9582a58e0c8b046"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/dormant_martian_sapling.png"
+hash = "59768b678822d726d439725cf61dd0f2eb45c5db951253c894c0f20d5aaefed6"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/dormant_martian_seed.png"
+hash = "32f0014299d140ebad262b6071a2b5af1a5f886daf5b56f97832a1b49bffcdd6"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/dry_plant_fiber.png"
+hash = "1f763aa753a361c8ddb11b7f10c59cbd7b456d37a71b24f5366955436219fd8b"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/durable_fabric.png"
+hash = "1a570bf2c831d03dcc884dcb3420dcc95283def29e72ad4c1dae660ce2683cac"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/enriched_glowstone_ore.png"
+hash = "68b79ccc9cfc2cb03ae1afb60b347f358b404807425ed114c057eb31f52f07ca"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/enriched_glowstone_ore.png.mcmeta"
+hash = "3c29912ce13abcb8ecf4b0d5b4112896036531b58d3ab3f68b869d23ca5b41e4"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/extinguished_lantern.png"
+hash = "285331def48ffc308a208693c838061dd3b7ec32e3b538b350d16fdbad6211f8"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/fan_blade.png"
+hash = "91d292d9250652b364817bbb8bc24fd276e0d505bb8e237b72d1b5d732e78e03"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/flattened_dough.png"
+hash = "85aa67114cf7cd8c6a0c7bbf320f2a835b2915d5a23d1df2094b0189662ee2a3"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/glowstone_lantern.png"
+hash = "9473c5a8441a04fc6fdcf3df47d49d6fcd7fe6d4b75f69fdc7288371f7732418"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/hardened_precision_mechanism.png"
+hash = "a9950e6d5d51407976018fc0edc3eefa75c1805bd7461b394ee1438ef2ac40b1"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/heat_tile.png"
+hash = "816940aa342015527a42e1ded028d0b1c1a669d2ae7baa1b652e8f9424b1b320"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/hydrocarbon_bucket.png"
+hash = "34bfa25a022e0da6a0adbafc7d4d7f232daf54d0b40d63f7c8f5fc8015ade4c9"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/hydrogen_bucket.png"
+hash = "9905398bae36413a635323a6a8995e1a59bf80bc95eaf6b29dc93532063f406d"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/hydronite_shard.png"
+hash = "bf3fed90d54037ce4308b82e8b810952dd72944dd2a7d9d15af719a58e385127"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/ice_cream_chocolate.png"
+hash = "bcfb08253a3e2b64f7786a7a952e5127cd227e178261fcfe2e6f7cd34811195a"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/ice_cream_cone.png"
+hash = "198429e59096fbb067e389805f944beeb74e3e47f52f39144e71a7d97c203683"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/ice_cream_strawberry.png"
+hash = "f0755f8266a3af84dfa1b093791c8c6ac4baa2aac9cef2ceda75d8a7b05ac1dc"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/ice_cream_vanilla.png"
+hash = "84dab93384757bed011a720666aa6bc98414c5ece38ee55340d736aacc7451d5"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/incomplete_hardened_precision_mechanism.png"
+hash = "3f79a335ad14ef3b9c23b7b655cd96b1de2f663884960fec607f879662469860"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/incomplete_rocket_combustion_chamber.png"
+hash = "466e417145979d80cbfa4451c5ec653ba4c4df70450e10b5c92758965241d51d"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/interplanetary_navigator.png"
+hash = "424be823b49febaa2ca5e555c44be9f4b3a7e3fc13ef85b194685201861afe5b"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/iron_space_suit_boots.png"
+hash = "e4024612bd2c24b82554c5cac7e2b9c845105f0aed0883d8b27fb2269d91c0c8"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/iron_space_suit_chestpiece.png"
+hash = "b10957544af0a584a7d9114526061bfacdea579dd8b10c397208f64367cf3761"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/iron_space_suit_helmet.png"
+hash = "c1eae66315dd2a31d25df22567d90fd283e59fc432f76e7cc79d0263c5d6620a"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/iron_space_suit_leggings.png"
+hash = "74c851517ab07033a449cc4443760c42a54421fa2217d3b6575800b2f2a0b0c9"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/liquid_hydrogen_bucket.png"
+hash = "61d41687cc8e5095f6faa8e6832ef3da55c028d396b3ce04ca2ee7dd31290db4"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/liquid_oxygen_bucket.png"
+hash = "23230cda0908d519485d76c926b6225d8a49fff011243e70608844a3dfd9a8ec"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/lunar_sapphire_shard.png"
+hash = "fd177814912f5a7bd7431543f123a3027ff0caa31236ef2ce1e6a6744ed75d59"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/mars_palm_seeds.png"
+hash = "34a7233233387ab47b4545fe0026db9e36c55b2ac728f03d6b6f0d58a1398c7e"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/mars_sprout_seeds.png"
+hash = "d4bd85802a354e6a290c5b4d5656bb56cc2d4425886830f72365096b37405164"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/mars_tulip_seeds.png"
+hash = "cb82303726e87a099379f4a87ef0c796afd505938bbbe094ebe6234d40b14773"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/martian_strawberry.png"
+hash = "53f3e956387c9b49b2a833efd4038dbfe9a5c72386b933d9c7ebc55bf503930c"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/martian_sword.png"
+hash = "5e8f3ae4e7b29bc0065ff16af492692c69150d0d59a0acb6efa230e527440206"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/mercury_shelf_fungus.png"
+hash = "2b48dc436b1a2e136d1aa949bc13569b03021df545e81303a5695452076baac9"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/methane_bucket.png"
+hash = "d8ed85336e494233a18ba732786c6192b71a13864905218f82813966e75af090"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/mineral_deposits.png"
+hash = "a1167845f837ba6c14494f0007707fee7428d1ee1370ee30fb199227287b9449"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/moon_sand_paper.png"
+hash = "75f726b9f5f83c73f3faae64bcf0041b16f667b24550e31577dd877991581b6e"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/oxygen_bucket.png"
+hash = "2d4e8051926efdda5d7233083ff682100dc8e3bf7b6dc75a47d7aac791201ec1"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/oxygen_separator.png"
+hash = "c40d62b70bbbedc39c639afcbb5b929bbedb218e2a832ea92158bdc50c657023"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/polished_amethyst.png"
+hash = "fed66c93fd8129e18b7166f2dc1b6b9f33f9b71ce7a025c70109ae6eeb78d2bd"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/polished_diamond.png"
+hash = "6beaede72c5ad140bad250942e67cdc70bf63d545486b86933f77b2e1df9291a"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/polished_lunar_sapphire.png"
+hash = "3860a0aa867446e8f95aa255d645795a0096a0ee21fca79dc558d76fad9715d6"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/raw_glowstone_ore.png"
+hash = "f3a191e7c4e4f06863198e6733fd377ba20fec6cd8fa759dbadb2be515a8e31b"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/raw_ice_cream_cone.png"
+hash = "7a73fa842e36f51d93ce38e3dbc333055eb2a904fc32b542f34251be263c26f3"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/raw_martian_iron_ore.png"
+hash = "3f4d92f156d8003835faec988274782235c08d41387e9e0953a7b621f668023b"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/raw_titanium.png"
+hash = "396bfd6fbd737c118b91c4b6d1e7431c8bfca82b6c3c83b303bf4b484f866126"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/raw_tungsten_ore.png"
+hash = "d5f056d2f8dc47aa0382d393b6dc2c03223c7ea6dd908a8463ed06b4d01ec4e7"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/return_ticket.png"
+hash = "d38bfa2e641c2bf53f84528a7662b017bc449eb6d2d036811081d278df9d615c"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/rocket_combustion_chamber.png"
+hash = "466e417145979d80cbfa4451c5ec653ba4c4df70450e10b5c92758965241d51d"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/rutile_concentrate.png"
+hash = "bcef93848978a7656edf44956aa853264c165c4acf3798631e01da7346780960"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/salt.png"
+hash = "2622211f14ebead2de2115a4eb1dacadbdd392dba9170bfc54710b2c05e460f5"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/sodium_bucket.png"
+hash = "270250975a57a962a8e5ff4715b8a59494d735a04595fa8a70ea9007f9542dff"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/sodium_catalyst.png"
+hash = "cb7fa59e8a7536f28e461d7738c9e1c7293984a8fcf5beda5b8d03b882da9b74"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/sodium_catalyst.png.mcmeta"
+hash = "57381703bd2699c8b7722c8abe53aba25cfa219b0787b5adc57d4a70d734dadc"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/steel_string.png"
+hash = "c2daaf8cd00017a57fba04fb63f67a07c29185d055515c3419b8a1a2d3810ef8"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/strawberry_ice_cream_bucket.png"
+hash = "65e9d97c618e80afce442b303e12a63923cbdb1056260b5ca102ae3834c1863a"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/sulfuric_acid_bucket.png"
+hash = "9670d60c978b8c57e3ac9a51e5a570a96c71147bbadc5b3cfecd1b2afe78d620"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/targeting_computer.png"
+hash = "0b08c05dc34b7afd37e8ccab08f12ea40d0283079bc5c823d534e44765593813"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/targeting_computer.png.mcmeta"
+hash = "ccc2eb7492b1179c1b6400b0c58a32171aa429c86ee2aefc6cdd912f53e5b438"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/telescope.png"
+hash = "a8b9a90e5db7c90f3613de8ad6e7fcae98d9600cf37d6afae1868743dfc09a2c"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/titanium_incomplete.png"
+hash = "7306f5fbd8ae4b8c491759a2ea61e897eed77c1ffca4dec4e95827475a197236"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/titanium_ingot.png"
+hash = "647f642d0bf88c246cb693523860329e97f61fb69b91cb3793a99ddebaa30965"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/titanium_nugget.png"
+hash = "b8145fb7b83dd63576db11c8e66e631610dd4f7dcdf6d70eb6c8cc8121596344"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/titanium_sheet.png"
+hash = "7c1da243b8755c48ba58b2f4f3778cf9b24214b456d44274facd7ade485a9b74"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/titanium_space_door.png"
+hash = "53bd43b5e5291166068a074f2da5fd3c8ccb64b79e5ac2a5184cb043f69ec502"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/titanium_tetrachloride_bucket.png"
+hash = "0c20b11cecc63f14dc367111d8cf387118fd7da5831000dcc21aeb7c08ac2f74"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/titanium_unforged.png"
+hash = "082909b0007c4035a346590fb4852560af288d8997b830db0c27ca9f98577a73"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/tungsten_ingot.png"
+hash = "0e2add434d245ebd1b5073f291f0daa08a9fef4dde3021b0b3213bd79468755c"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/tungsten_nugget.png"
+hash = "c1e8600ed17e2c6176833c7e6e567c20fe23ee2dfc2f39fd49304f3cd6e7d4eb"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/tungsten_sheet.png"
+hash = "d60d89298d20fb4bbf152245151dabcbb817032b3df4a91e17f85d30107ca765"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/unfinished_advanced_circuit.png"
+hash = "c484a31aa6ce1ebd389bfeffae2babd91e5a2965a904758c7e627e8b5852722b"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/unfinished_circuit.png"
+hash = "dbbbcf21ce5c6465ba9d023a232c18e6240553af6d74710254f52a01a7b757a3"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/unfinished_combustion_chamber.png"
+hash = "4fce7fb3d42abd83cbe1d545ed043fb9f1677f2948163fbac2abb0b9db36cb38"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/unfinished_rocket_combustion_chamber.png"
+hash = "466e417145979d80cbfa4451c5ec653ba4c4df70450e10b5c92758965241d51d"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/unfinished_targeting_computer.png"
+hash = "6d0f65c520c2ca5c84b0db340e405d9d0bb8fee7c8c4724f3e5928067919df25"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/vanilla_ice_cream_bucket.png"
+hash = "fe983852708b020d407c64c555bf72ee773daefa98dfc313c8eed5ecd79a79f2"
+
+[[files]]
+file = "config/neutrontools/packs_required/resource_packs/terranova/assets/northstar/textures/item/volcanic_ash.png"
+hash = "e0f309a6bd75965340cd10e7a908e9d34d1bcf63f4d6832d425595d0cefdd31d"
+
+[[files]]
 file = "config/neutrontools/packs_required/resource_packs/terranova/assets/railways/lang/en_us.json"
 hash = "9e7a3baf06bc766930461c83dc82d212ff72544963525e2729f9bb534fa4ab74"
 
@@ -15107,7 +15487,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
+hash = "cbce99e396e7237be263e91001785d9811f4e7133dd0e556ab7c646ea37b20f3"
 metafile = true
 
 [[files]]
@@ -15191,7 +15571,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "1a9187d50e9a3a17dbdae3fbf8c3f691c43f9a5c6da8313fa6dffbf2ac0c49ba"
+hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
 metafile = true
 
 [[files]]
@@ -15205,13 +15585,18 @@ hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
 
 [[files]]
+file = "mods/create-xaeros-map.pw.toml"
+hash = "ce4f3b213b52415cecadc297652ba0f1c506e4f987a7ae2bfda437f3bd405d5b"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "bcbcb4d32d5b2b6bcb4a578639a8830396eb87febe0ff3364a99ca6aee9a5bb7"
+hash = "e5052e0fcba9af1e3c6c0734829b441bc5a23012108bf203ca01825ca12ff6b1"
 metafile = true
 
 [[files]]
@@ -15221,7 +15606,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ee9b77a6a70722fcb5b35846fd9acadf5e649c5341102c3244eb0a8847d1f0ca"
+hash = "63d1560de24b53cad7052d19c1a44b4eab64ad9f696d01c9f2a72fccd5540557"
 metafile = true
 
 [[files]]
@@ -15251,7 +15636,7 @@ metafile = true
 
 [[files]]
 file = "mods/dye-the-world.pw.toml"
-hash = "e32936eb19cd84998d3f0693de1a3279b583377113b13b633959c032f32fc433"
+hash = "801c49090297d3a6b38c79457ea10ecba85800c5469ea7783b9114cbcd6ea68a"
 metafile = true
 
 [[files]]
@@ -15261,7 +15646,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "c4fd809c57af751c60082a03a21fd2bf1106e89020926ba0cc0e6317e5ace4e8"
+hash = "cc230dd39acdfe8845b6b0c8c3a0f9799a1c1109ea14b5b11c05313f15ed4fc9"
 metafile = true
 
 [[files]]
@@ -15291,7 +15676,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "7411c38665af0ee0b17613ac80daaa040a5f59b046d418421297acf2c6fa8c9c"
+hash = "108739f2fdaa6a885a3217ae692b2521ab10b8e71fa1222c67274ea0562649a5"
 metafile = true
 
 [[files]]
@@ -15316,7 +15701,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c911d03476ac0e535c3c601ad98a725ce685e063032474abbf2a2fb9bf23f786"
+hash = "8bc018284b753276f8e3510101852809bcccdad31a7ae17847df210c71a2c512"
 metafile = true
 
 [[files]]
@@ -15346,12 +15731,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
+hash = "d10fbef1555f5277563b9cbf7683811ac0f38c1af41646e6ce5c3aaa2149425d"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dda27add4d2cfc241d52a6825e016712d704c0b9925ab2ccbf779e8493f752ed"
+hash = "8a69517eb999eacd8842d42fb2f9cdfda43fe11e70d72eabc54969b4d9e38f5a"
 metafile = true
 
 [[files]]
@@ -15396,7 +15781,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6b1ee632cee2d75301016eaac99a3446ad605f11fbfda631effac0eb7da59f6c"
+hash = "3b5f787b41d1814911aad8f199ad7db55a65459e1833b843abb12615dfa0a580"
 metafile = true
 
 [[files]]
@@ -15406,7 +15791,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "ddf213b8ba47e0651dc89081db34c5d5350b792ba395e81da70200e593ec310c"
+hash = "6390e31a740d60ba3a66edaf86f5e2788b7d03ff18fd43580f12f665e25f73f9"
 metafile = true
 
 [[files]]
@@ -15416,7 +15801,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
+hash = "fadb5c9cfe145e51992894fe57209fc8f1696ef892ee9702a24c6205f042e9b2"
 metafile = true
 
 [[files]]
@@ -15465,12 +15850,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "64670072fa3b4db4a721769dd3d66a2865daac01c9a2480b9561675b1e9e9737"
+hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f8cc300d53ae8bf71d77124e6c46a5e85fe31654b39c5d73a1652a4d9c404af4"
+hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
 metafile = true
 
 [[files]]
