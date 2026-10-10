@@ -1,8 +1,0 @@
-{
-	"parent": "create_connected:block/inventory_bridge/block",
-	"textures": {
-		"front": "create_connected:block/inventory_bridge_front",
-		"particle": "create_connected:block/inventory_bridge_negative",
-		"level": "create_connected:block/inventory_bridge_negative"
-	}
-}

@@ -1,7 +1,0 @@
-{
-  "credit": "Made with Blockbench",
-  "parent": "create_connected:block/dashboard/block",
-  "textures": {
-    "4": "create_connected:block/dashboard_frame_open"
-  }
-}
