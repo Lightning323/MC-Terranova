@@ -15153,7 +15153,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "8a0bea28f988792ff9093667d301f33015fb3cdd6bffb4648c842f0b246caf80"
+hash = "784e8ba62bacf16725ae458dfa8ee2a72173f0b85b58cab9528dcf9f1e1b846f"
 metafile = true
 
 [[files]]
@@ -15212,7 +15212,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-kinetic.pw.toml"
-hash = "43e4e22a172bfc82188a3dde2f3c448bcd2446ab1c7d217491ee01a6e2e0dbd4"
+hash = "d4e6e34df4a9de93da27e88b9b0bdcd53fc1e78f6e873e9e5f0dd3af078e39ef"
 metafile = true
 
 [[files]]
@@ -15267,7 +15267,7 @@ metafile = true
 
 [[files]]
 file = "mods/dye-depot.pw.toml"
-hash = "3f2b8acea20b5966d65a0ac9509fa31d346c08d86e71bd597e1911a71814462c"
+hash = "868ac326db1626226c11babcfe8a50d1aef1d3c198bcbf89b133a4f81f938a7c"
 metafile = true
 
 [[files]]
@@ -15372,7 +15372,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8a69517eb999eacd8842d42fb2f9cdfda43fe11e70d72eabc54969b4d9e38f5a"
+hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
 metafile = true
 
 [[files]]
@@ -15417,7 +15417,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "3b5f787b41d1814911aad8f199ad7db55a65459e1833b843abb12615dfa0a580"
+hash = "0a04f1d0b86262c6dfdbd14e0493d7f4786f24054a95a07ff7b41a7870bb258d"
 metafile = true
 
 [[files]]
@@ -15467,7 +15467,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "25fdaaf01546f4083aa00f85b6c1c4b67434f6d068d3e1725d4437576ca34a7a"
+hash = "bf713100ba85cf1db91eaea22fd0d325994d58f64e16c402b199aa07891c0338"
 metafile = true
 
 [[files]]
