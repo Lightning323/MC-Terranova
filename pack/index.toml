@@ -15200,7 +15200,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-kinetic.pw.toml"
-hash = "d4e6e34df4a9de93da27e88b9b0bdcd53fc1e78f6e873e9e5f0dd3af078e39ef"
+hash = "27d60c85e48d842f92b52784f42d4d0cecea3f6360b96ea3739fa7e160e6987d"
 metafile = true
 
 [[files]]
