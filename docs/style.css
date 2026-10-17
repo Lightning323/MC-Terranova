@@ -1,0 +1,354 @@
+:root {
+  --bg: #0d1110;
+  --bg-soft: #151c1a;
+  --card: #1a2422;
+  --card-hover: #21302c;
+  --border: #2c3f39;
+  --text: #e8f2ee;
+  --muted: #9bb3aa;
+  --accent: #5ecf8a;
+  --accent-dark: #2e8b57;
+  --accent-glow: rgba(94, 207, 138, 0.25);
+  --radius: 14px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ---------- Hero banner ---------- */
+
+.hero {
+  position: relative;
+  min-height: 420px;
+  display: flex;
+  align-items: flex-end;
+  background:
+    linear-gradient(to bottom, rgba(13, 17, 16, 0.15) 0%, rgba(13, 17, 16, 0.75) 70%, var(--bg) 100%),
+    url("assets/splash.png") center 30% / cover no-repeat;
+}
+
+.hero-inner {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 2.5rem;
+  text-align: center;
+}
+
+.hero img.logo {
+  width: 72px;
+  height: 72px;
+  border-radius: 16px;
+  margin-bottom: 1rem;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.6);
+}
+
+.hero h1 {
+  font-size: clamp(2.2rem, 6vw, 3.5rem);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.8);
+}
+
+.hero p.tagline {
+  margin-top: 0.5rem;
+  font-size: 1.15rem;
+  color: var(--muted);
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.8);
+}
+
+/* ---------- Nav ---------- */
+
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(13, 17, 16, 0.9);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+
+nav .nav-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0.85rem 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+nav a {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+nav a:hover,
+nav a.active {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* ---------- Layout ---------- */
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+section + section {
+  margin-top: 3rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+h2::before {
+  content: "";
+  width: 6px;
+  height: 1.4em;
+  border-radius: 3px;
+  background: linear-gradient(to bottom, var(--accent), var(--accent-dark));
+}
+
+.lead {
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+  max-width: 65ch;
+}
+
+/* ---------- Download cards ---------- */
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent-dark);
+  background: var(--card-hover);
+  text-decoration: none;
+}
+
+.card .icon {
+  font-size: 1.8rem;
+}
+
+.card h3 {
+  font-size: 1.15rem;
+  color: var(--text);
+}
+
+.card p {
+  color: var(--muted);
+  font-size: 0.92rem;
+  flex: 1;
+}
+
+.card .btn {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.55rem 1.1rem;
+  border-radius: 8px;
+  background: linear-gradient(to bottom, var(--accent), var(--accent-dark));
+  color: #06110b;
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.card:hover .btn {
+  text-decoration: none;
+  filter: brightness(1.1);
+}
+
+.card .meta {
+  font-size: 0.78rem;
+  color: var(--muted);
+  opacity: 0.8;
+}
+
+/* ---------- Steps ---------- */
+
+.steps {
+  counter-reset: step;
+  display: grid;
+  gap: 1rem;
+}
+
+.step {
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.3rem 1.1rem 3.6rem;
+  position: relative;
+}
+
+.step::before {
+  counter-increment: step;
+  content: counter(step);
+  position: absolute;
+  left: 1.1rem;
+  top: 1.15rem;
+  width: 1.7rem;
+  height: 1.7rem;
+  border-radius: 50%;
+  background: var(--accent-dark);
+  color: var(--text);
+  font-weight: 700;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.step h3 {
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.step p {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+code {
+  background: rgba(94, 207, 138, 0.1);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 0.1em 0.4em;
+  font-size: 0.85em;
+  font-family: ui-monospace, "Cascadia Code", "Fira Code", monospace;
+  word-break: break-all;
+}
+
+/* ---------- Modlist ---------- */
+
+.modlist-tools {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.25rem;
+}
+
+.modlist-tools input[type="search"] {
+  flex: 1;
+  min-width: 200px;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  font-size: 0.95rem;
+  outline: none;
+}
+
+.modlist-tools input[type="search"]:focus {
+  border-color: var(--accent-dark);
+}
+
+.mod-count {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-bottom: 0.75rem;
+}
+
+.mod-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.6rem;
+  list-style: none;
+}
+
+.mod-grid li {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.65rem 0.9rem;
+  font-size: 0.92rem;
+  transition: border-color 0.12s ease;
+}
+
+.mod-grid li:hover {
+  border-color: var(--accent-dark);
+}
+
+.mod-grid li a {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.mod-grid li a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.mod-grid li span.no-link {
+  font-weight: 600;
+}
+
+.mod-grid li.hidden {
+  display: none;
+}
+
+/* ---------- Footer ---------- */
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+footer a {
+  color: var(--accent);
+}

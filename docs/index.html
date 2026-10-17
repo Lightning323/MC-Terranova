@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terranova — Minecraft Modpack</title>
+  <meta name="description" content="Download the Terranova Minecraft modpack and browse the full mod list.">
+  <link rel="icon" type="image/png" href="assets/icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <img class="logo" src="assets/icon.png" alt="Terranova icon">
+      <h1>Terranova</h1>
+      <p class="tagline">A Create-focused Minecraft modpack — build, explore, and automate a new world.</p>
+    </div>
+  </header>
+
+  <nav>
+    <div class="nav-inner">
+      <a href="index.html" class="active">Home</a>
+      <a href="#download">Download</a>
+      <a href="#install">Install</a>
+      <a href="modlist.html">Mod List</a>
+    </div>
+  </nav>
+
+  <main>
+
+    <section id="download">
+      <h2>Download</h2>
+      <p class="lead">Grab the pack in whichever format suits your launcher. The <strong>.mrpack</strong> works with Prism Launcher, ATLauncher, and other modern launchers; the <strong>.zip</strong> is a ready-to-import instance.</p>
+
+      <div class="cards">
+        <a class="card" href="https://raw.githubusercontent.com/lightworks-studio/MC-Terranova/main/dist/pack_prebuilt.mrpack" download>
+          <span class="icon">📦</span>
+          <h3>Prebuilt Pack (Modrinth)</h3>
+          <p>Standard Modrinth-format pack. Import directly into Prism Launcher or any Modrinth-compatible launcher.</p>
+          <span class="btn">Download .mrpack</span>
+          <span class="meta">via GitHub · ~40 MB</span>
+        </a>
+
+        <a class="card" href="https://raw.githubusercontent.com/lightworks-studio/MC-Terranova/main/dist/Terranova.zip" download>
+          <span class="icon">🗂️</span>
+          <h3>Auto-Update Instance (Prism Launcher)</h3>
+          <p>Prebuilt instance archive. Unzip into your launcher's instance folder, or import it as a zip instance.</p>
+          <span class="btn">Download .zip</span>
+          <span class="meta">via GitHub · ~22 MB</span>
+        </a>
+
+        <a class="card" href="modlist.html">
+          <span class="icon">🧾</span>
+          <h3>Browse the Mod List</h3>
+          <p>See every mod included in Terranova, with links to project pages where available.</p>
+          <span class="btn">View Mods</span>
+          <span class="meta">74 mods</span>
+        </a>
+      </div>
+    </section>
+
+    <section id="install">
+      <h2>Install</h2>
+      <p class="lead">Terranova runs on Minecraft 1.21.1 with Forge. Java 21 or newer is required.</p>
+
+      <div class="steps">
+        <div class="step">
+          <h3>Get a launcher</h3>
+          <p>We recommend <a href="https://prismlauncher.org/" target="_blank" rel="noopener">Prism Launcher</a>, but any Modrinth-compatible launcher works for the .mrpack.</p>
+        </div>
+        <div class="step">
+          <h3>Import the pack</h3>
+          <p>Drag the downloaded <code>.mrpack</code> or <code>.zip</code> file into your launcher, or use <em>Add Instance → Import</em> and select the file.</p>
+        </div>
+        <div class="step">
+          <h3>Launch</h3>
+          <p><b>Give the instance 5 GB or more of RAM</b>, then hit Play. Updates can be applied by re-importing a newer build.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="packwiz">
+      <h2>Adding your Own Mods (advanced)</h2>
+      <p class="lead">Prefer to add other mods, just as Distand Horizons? Replace the startup command on the prism launcher instance with the following:</p>
+      <div class="step">
+        <p><code>"$INST_JAVA" -jar "$INST_MC_DIR/packInstaller.jar" -sm -shc -u https://raw.githubusercontent.com/Lightning323/MC-Terranova/main/pack/pack.toml</code></p>
+      </div>
+      <br>
+      <h3>Supported Server-Side Mods</h3>
+      <ul>
+        <li>Distand Horizons</li>
+      </ul>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Terranova is not affiliated with Mojang or Microsoft. Minecraft is a trademark of Mojang AB.</p>
+    <p>Source on <a href="https://github.com/lightworks-studio/MC-Terranova" target="_blank" rel="noopener">GitHub</a></p>
+  </footer>
+
+</body>
+</html>
